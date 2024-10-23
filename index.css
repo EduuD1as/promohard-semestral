@@ -1,101 +1,101 @@
 body {
-    margin: 0;
-    font-family: 'Poppins';
-    background-color: #eeeeee;
+  margin: 0;
+  font-family: "Poppins";
+  background-color: #eeeeee;
 }
 
 #divHeader header {
-    padding: 1rem;
-    background-color: white;
-    text-align: center;
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
 }
 
 #h1Home {
-    text-decoration: none;
-    color: rgb(34, 34, 34);
+  text-decoration: none;
+  color: rgb(34, 34, 34);
 }
 
 #aLogin {
-    text-decoration: none;
-    color: #222222;
-    margin: 2rem;
+  text-decoration: none;
+  color: #222222;
+  margin: 2rem;
 }
 
 #aLogin:hover {
-    color: #131313;
+  color: #131313;
 }
 
 #aRegistrar:hover {
-    color: #131313;
+  color: #131313;
 }
 
 #aRegistrar {
-    text-decoration: none;
-    color: #222222;
-    margin: 2rem;
+  text-decoration: none;
+  color: #222222;
+  margin: 2rem;
 }
 
 h1 {
-    vertical-align: middle;
-    margin: 0 0 0 30px;
-    max-width: fit-content;
-    display: inline;
+  vertical-align: middle;
+  margin: 0 0 0 30px;
+  max-width: fit-content;
+  display: inline;
 }
 
 input {
-    display: inline;
-    justify-content: center;
-    align-items: center;
-    margin: 0 50px;
-    height: 50px;
-    width: 30vw;
-    border-radius: 2vw;
-    border: none;
-    background-color: #ededed;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  margin: 0 50px;
+  height: 50px;
+  width: 30vw;
+  border-radius: 2vw;
+  border: none;
+  background-color: #ededed;
 }
 
 #inputSearch {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
 #inputSearch::placeholder {
-    font-size: 14px;
-    background: url(assets/search.png) no-repeat scroll;
-    background-position-y: center;
-    background-size: 16px;
-    padding: 0 20px;
-    margin-left: 20px;
-    font-family: 'Poppins';
-    padding-left: 24px;
+  font-size: 14px;
+  background: url(assets/search.png) no-repeat scroll;
+  background-position-y: center;
+  background-size: 16px;
+  padding: 0 20px;
+  margin-left: 20px;
+  font-family: "Poppins";
+  padding-left: 24px;
 }
 
 #divNav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 0 4rem;
-    gap: 0;
-    /* Remover gap */
-    background-color: #ff1a1a;
-    height: 1.5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 4rem;
+  gap: 0;
+  /* Remover gap */
+  background-color: #ff1a1a;
+  height: 1.5vw;
 }
 
 #divNav a {
-    text-decoration: none;
-    font-weight: bold;
-    color: white;
-    text-align: center;
-    border-right: 1px solid #ccc;
-    padding: 0 1rem;
-    margin: 0;
-    font-size: 14px;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  padding: 0 1rem;
+  margin: 0;
+  font-size: 14px;
 }
 
 #divNav a:last-child {
-    border-right: none;
+  border-right: none;
 }
 
 #divNav a:only-child {
-    border-right: none;
+  border-right: none;
 }
