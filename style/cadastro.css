@@ -147,3 +147,26 @@ body {
   color: #676666;
   padding: 0 16px;
 }
+
+#loginFacebookGoogle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28.45px;
+}
+
+#loginFacebookGoogle button {
+  width: 313.27px;
+  height: 55px;
+  font-family: 'Poppins';
+  border-radius: 10px;
+  border: 1px solid #676666;
+  background-color: white;
+}
+
+#loginFacebookGoogle button:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+  background-color: #f1f1f1;
+  transition: all 0.3s ease;
+}

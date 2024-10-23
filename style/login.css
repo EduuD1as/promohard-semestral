@@ -147,9 +147,9 @@ input::placeholder {
 #googleLogin:hover,
 #facebookLogin:hover {
   cursor: pointer;
-  transition: 0.7s ease;
+  transition: all 0.4s ease;
   transform: scale(1.03);
-  background-color: #f3f3f3;
+  background-color: #f1f1f1;
 }
 
 #semConta {
