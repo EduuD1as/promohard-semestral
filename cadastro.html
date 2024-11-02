@@ -22,15 +22,16 @@
     <div id="cadastroBox">
       <h1>Crie sua conta!</h1>
 
-      <div id="inputNome">
-        <input type="text" placeholder="Primeiro Nome" required />
-        <input type="text" placeholder="Sobrenome" />
-      </div>
-
+      <form id="formCadastro">
       <div id="emailSenha">
-        <input type="email" name="email" id="email" placeholder="E-mail" required />
+        <input id="user" type="text" placeholder="Nome de usuário" class="inputs required" oninput="userValidate()"/>
+        <span class="span-required">O nome de usuário deve ter no mínimo 3 caractéres</span>
 
-        <input type="password" name="password" id="password" placeholder="Senha" required />
+        <input type="email" name="email" id="email" placeholder="E-mail" class="inputs required" oninput="emailValidate()"/>
+        <span class="span-required">Digite um e-mail válido</span>
+
+        <input type="password" name="password" id="password" placeholder="Senha" class="inputs required" oninput="passwordValidate()"/>
+        <span class="span-required">Digite uma senha com no mínimo 8 caractéres</span>
       </div>
 
       <div id="divButton">
@@ -52,10 +53,69 @@
 
         <button><img src="/assets/facebook.svg" alt="" style="margin-right: 12px; vertical-align: middle;">Entrar com Facebook</button>
       </div>
+    </form>
 
     </div>
   </div>
   </div>
 </body>
+
+<script>
+  const form = document.getElementById('cadastroForm');
+  const campos = document.querySelectorAll('.required');
+  const spans = document.querySelectorAll('.span-required');
+  const emailRegex = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+
+  formCadastro.addEventListener('submit', (event) => {
+    event.preventDefault();
+    userValidate();
+    emailValidate();
+    passwordValidate();
+  });
+
+  function setError(index){
+    campos[index].style.border = '2px solid #e63636';
+    spans[index].style.display = 'block';
+  }
+
+  function removeError(index){
+    campos[index].style.border = '';
+    spans[index].style.display = 'none';
+  }
+
+  function userValidate() {
+    if(campos[0].value.length < 3)
+    {
+      setError(0);
+    }
+    else
+    {
+      removeError(0);
+    }
+  }
+
+  function emailValidate(){
+    if(!emailRegex.test(campos[1].value))
+    {
+      setError(1);
+    }
+    else
+    {
+      removeError(1);
+    }
+  }
+
+  function passwordValidate(){
+    if(campos[2].value.length < 8)
+    {
+      setError(2);
+    }
+    else
+    {
+      removeError(2);
+    }
+  }
+
+</script>
 
 </html>
