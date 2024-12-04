@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Página inicial</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/index.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div id="divHeader">
+      <header>
+        <h1><a href="#" id="h1Home">Promohard</a></h1>
+        <input type="search" name="search" id="inputSearch" placeholder="Pesquise aqui" />
+        <a href="login.html" id="aLogin">Login</a>
+        <a href="cadastro.html" id="aRegistrar">Registrar-se</a>
+      </header>
+      <div id="divNav">
+        <nav>
+          <a href="#">PROCESSADOR</a>
+          <a href="#">PLACA MÃE</a>
+          <a href="#">PLACA DE VÍDEO</a>
+          <a href="#">MEMÓRIA</a>
+          <a href="#">ARMAZENAMENTO</a>
+          <a href="#">FONTE</a>
+          <a href="#">RESFRIAMENTO & VENTOINHAS</a>
+          <a href="#">GABINETE</a>
+        </nav>
+      </div>
+    </div>
+
+    <!-- Contêiner principal para barra lateral e grid de produtos -->
+    <div class="main-content">
+      <!-- Barra lateral de filtros -->
+      <aside class="filter-sidebar">
+        <h2>Filtros</h2>
+        <div class="filter-group">
+          <h3>Categoria</h3>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="processor" /><span>Processador</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="motherboard" /> <span>Placa-Mãe</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="gpu" /> <span>Placa de Vídeo</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="memory" /><span>Memória</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="storage" /><span>Armazenamento</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="psu" /> <span>Fonte</span></label>
+          <label><input class="inputCategoria" type="checkbox" name="category" value="cooling" /> <span>Resfriamento &
+              Ventoinhas</span></label>
+          <label><input type="checkbox" name="category" value="case" /> <span>Gabinete</span></label>
+        </div>
+        <div class="filter-group">
+          <h3>Preço</h3>
+          <label><input type="radio" name="price" value="low" /> <span>Até R$ 100</span></label>
+          <label><input type="radio" name="price" value="medium" /> <span>R$ 100 - R$ 500</span></label>
+          <label><input type="radio" name="price" value="high" /> <span>Acima de R$ 500</span></label>
+        </div>
+      </aside>
+
+      <!-- Grid de Produtos -->
+      <section class="product-grid" id="produtos-grid">
+
+      </section>
+    </div>
+  </div>
+
+  <div class="footer">
+    <footer>
+      <span>Próxima página</span>
+    </footer>
+  </div>
+
+  <script src="/js/index.js"></script>
+</body>
+
+</html>

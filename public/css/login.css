@@ -1,0 +1,252 @@
+body {
+  margin: 0;
+  display: flex;
+  overflow: hidden;
+  font-family: 'Inter';
+}
+
+#esquerda {
+  width: 50%;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f6f8fc;
+}
+
+#direita {
+  font-size: 18px;
+  background-color: #8f8f8f;
+  height: 100%;
+  width: 90%;
+  margin: 0;
+}
+
+#loginBox {
+  display: flex;
+  text-align: center;
+  width: 364px;
+  align-items: center;
+  flex-direction: column;
+}
+
+#loginBox h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+#loginBox p {
+  color: #525252;
+  margin-bottom: 24px;
+  margin-top: 0;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 16px;
+  border: 1px solid #676666;
+  padding: 1rem;
+  background-color: #f6f8fc;
+}
+
+#divInput {
+  display: grid;
+  width: 364px;
+  gap: 18px;
+}
+
+#divLoginButton button {
+  margin-top: 24px;
+  border-radius: 16px;
+  width: 150px;
+  height: 52px;
+  margin-top: 24px;
+  border: none;
+  color: white;
+  font-family: "Inter";
+  font-weight: bold;
+  background-color: #d52323;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+}
+
+#divLoginButton button:hover {
+  cursor: pointer;
+  transition: all .3s ease;
+  transform: scale(1.03);
+}
+
+.linha-com-texto {
+  margin-top: 60px;
+  width: 364px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.linha-com-texto hr {
+  border: none;
+  height: 1px;
+  background-color: #e5e5e5;
+  width: 100%;
+  margin: 0;
+  margin-bottom: 2px;
+  border-radius: 8px;
+}
+
+.linha-com-texto span {
+  padding: 0 3.2px 0 3.2px;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.loginFacebookGoogle {
+  margin-top: 24px;
+  width: 364px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#googleLogin {
+  background-color: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  width: 100%;
+  height: 52px;
+  font-family: "Inter";
+}
+
+#facebookLogin {
+  background-color: white;
+  border: 1px solid #e5e5e5;
+  border-radius: 16px;
+  width: 100%;
+  height: 52px;
+  font-family: "Inter";
+}
+
+#googleLogin:hover,
+#facebookLogin:hover {
+  cursor: pointer;
+  transition: all 0.4s ease;
+  transform: scale(1.03);
+  background-color: #f1f1f1;
+}
+
+#semConta {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 15px;
+}
+
+#semConta a {
+  text-decoration: none;
+  color: black;
+}
+
+.inner-header {
+  height: 50%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.waves {
+  position: relative;
+  width: 100%;
+  height: 15vh;
+  margin-bottom: -8px;
+  min-height: 100px;
+  max-height: 150px;
+}
+
+.content {
+  position: relative;
+  height: 20vh;
+  text-align: center;
+  background-color: white;
+}
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+}
+
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+
+@keyframes move-forever {
+  0% {
+    transform: translate3d(-90px, 0, 0);
+  }
+
+  100% {
+    transform: translate3d(85px, 0, 0);
+  }
+}
+
+/*Redução para mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height: 40px;
+    min-height: 40px;
+  }
+
+  .content {
+    height: 30vh;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+}
+
+#direitaBox {
+  font-weight: bold;
+  font-size: 24px;
+  height: 500px;
+  width: 500px;
+  margin: 120px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../assets/Login-pana.svg);
+  margin-top: 150px;
+}
+
+h2 {
+  margin: 0;
+  color: white;
+}

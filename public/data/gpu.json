@@ -1,0 +1,320 @@
+[
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/150657/placa-de-video-galax-geforce-rtx-3060-1-click-oc-15-gbps-12gb-gddr6-ray-tracing-dlss-36nol7md1voc_1614253646_m.jpg",
+        "nome": "Placa de Vídeo RTX 3060 1-Click OC Galax NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - 36NOL7MD1VOC",
+        "preco": "R$ 1.933,99",
+        "link": "https://www.kabum.com.br/produto/150657/placa-de-video-rtx-3060-1-click-oc-galax-nvidia-geforce-12gb-gddr6-lhr-dlss-ray-tracing-36nol7md1voc"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing_1688052210_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",
+        "preco": "R$ 1.899,99",
+        "link": "https://www.kabum.com.br/produto/469132/placa-de-video-rtx-4060-ventus-2x-black-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/520724/placa-de-video-rtx4060-1-click-oc-2x-teclab-lite-galax-nvidia-geforce-_1708435296_m.jpg",
+        "nome": "Placa de Vídeo RTX4060 1-Click OC 2X TecLab Lite GALAX NVIDIA GeForce, 8GB GDDR6, G-SYNC, DLSS, Ray Tracing",
+        "preco": "R$ 2.189,99",
+        "link": "https://www.kabum.com.br/produto/520724/placa-de-video-rtx4060-1-click-oc-2x-teclab-lite-galax-nvidia-geforce-8gb-gddr6-g-sync-dlss-ray-tracing"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/576421/placa-de-video-rx-6650xt-xfx-speedster-swft210-radeon-8gb-gddr6-hdmi-3xdp-2-fan-rx-665x8dfdy_1719604625_m.jpg",
+        "nome": "Placa de Vídeo RX 6650XT XFX Speedster SWFT210 AMD Radeon, 8GB GDDR6, HDMI 3xDP 2 FAN - RX-665X8DFDY",
+        "preco": "R$ 1.599,99",
+        "link": "https://www.kabum.com.br/produto/576421/placa-de-video-rx-6650xt-xfx-speedster-swft210-amd-radeon-8gb-gddr6-hdmi-3xdp-2-fan-rx-665x8dfdy"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/461395/placa-de-video-rtx-4060-ti-ventus-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing_1684770175_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",
+        "preco": "R$ 2.649,99",
+        "link": "https://www.kabum.com.br/produto/461395/placa-de-video-rtx-4060-ti-ventus-3x-8g-oc-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/550417/placa-de-video-rtx-4060-o8g-v2-gaming-ats-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm2-m0na00_1719508167_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 8G V2 Gaming ATS OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM2-M0NA00",
+        "preco": "R$ 2.444,99",
+        "link": "https://www.kabum.com.br/produto/550417/placa-de-video-rtx-4060-8g-v2-gaming-ats-oc-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm2-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/462166/placa-de-video-rtx-4060-ti-gigabyte-gv-n406teagle-oc-8gd-g10-_1684842454_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 Ti Eagle OC Gigabyte NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - GV-N406TEAGLE OC-8GD G10",
+        "preco": "R$ 3.111,99",
+        "link": "https://www.kabum.com.br/produto/462166/placa-de-video-rtx-4060-ti-eagle-oc-gigabyte-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-gv-n406teagle-oc-8gd-g10"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/522531/placa-de-video-rtx-4060-asus-dual-o8g-evo-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00_1711036187_m.jpg",
+        "nome": "Placa de vídeo RTX 4060 ASUS Dual 8G EVO OC NVIDIA GeForce, 8GB GDDR6, G-SYNC, Ray Tracing - 90YV0JC7-M0NA00",
+        "preco": "R$ 2.211,99",
+        "link": "https://www.kabum.com.br/produto/522531/placa-de-video-rtx-4060-asus-dual-8g-evo-oc-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/580364/placa-de-video-rtx-3060-palit-nvidia-geforce-12gb-gdrrr6-rgb-dlss-g-sync-ray-tracing-ne63060019k9-190ad_1716478999_m.jpg",
+        "nome": "Placa de Video RTX 3060 Palit NVIDIA GeForce, 12GB GDDR6, RGB, DLSS, G-Sync, Ray Tracing - NE63060019K9-190AD",
+        "preco": "R$ 1.779,99",
+        "link": "https://www.kabum.com.br/produto/580364/placa-de-video-rtx-3060-palit-nvidia-geforce-12gb-gddr6-rgb-dlss-g-sync-ray-tracing-ne63060019k9-190ad"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/473206/placa-de-video-rtx-4060-ti-ventus-2x-black-8g-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-_1691522292_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 TI Ventus 2X Black 8G OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync",
+        "preco": "R$ 2.569,99",
+        "link": "https://www.kabum.com.br/produto/473206/placa-de-video-rtx-4060-ti-ventus-2x-black-8g-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/384627/placa-de-video-msi-nvidia-geforce-rtx-3060-ventus-2x-12gb-gddr6-dlss-ray-tracing-912-v397-272_1663850312_m.jpg",
+        "nome": "Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC",
+        "preco": "R$ 1.829,99",
+        "link": "https://www.kabum.com.br/produto/384627/placa-de-video-rtx-3060-ventus-2x-msi-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-rtx-3060-ventus-2x-12g-oc"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/461388/placa-de-video-rtx-4060-ti-asus-tuf-o8g-gaming-tuf-rtx4060ti-o8g-gaming_1684871390_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 Ti OC Edition Asus TUF Gaming NVIDIA GeForce, 8 GB GDDR6, ARGB, DLSS - TUF-RTX4060TI-O8G-GAMING",
+        "preco": "R$ 3.144,99",
+        "link": "https://www.kabum.com.br/produto/461388/placa-de-video-rtx-4060-ti-oc-edition-asus-tuf-gaming-nvidia-geforce-8-gb-gddr6-argb-dlss-tuf-rtx4060ti-o8g-gaming"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/476926/Placa-De-V-deo-Msi-RTX-4060-Ventus-2x-Oc-Black-Nvidia-GeForce-8GB-GDDR6-912-V516-012_1732053267_m.jpg",
+        "nome": "Placa De Vídeo Msi RTX 4060 Ventus 2x Oc Black, Nvidia GeForce, 8GB, GDDR6 - 912-V516-012",
+        "preco": "R$ 2.703,33",
+        "link": "https://www.kabum.com.br/produto/476926/placa-de-video-msi-rtx-4060-ventus-2x-oc-black-nvidia-geforce-8gb-gddr6-912-v516-012"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/518721/placa-de-video-rtx-3050-ex-galax-nvidia-geforce-6gb-gddr6-527200-0119_1707249669_m.jpg",
+        "nome": "Placa de vídeo RTX 3050 EX Galax NVIDIA GeForce, 6GB GDDR6. DLSS, Ray Tracing, G-Sync - 527200-0119",
+        "preco": "R$ 1.159,99",
+        "link": "https://www.kabum.com.br/produto/518721/placa-de-video-rtx-3050-ex-galax-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-g-sync-527200-0119"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/573742/Placa-De-V-deo-Galax-Geforce-RTX-4060-8GB-1-Click-Oc-V2-GDDR6-128-Bit-46nsl8md9nxv_1731093725_m.jpg",
+        "nome": "Placa De Vídeo Galax Geforce RTX 4060, 8GB, 1 Click Oc V2, GDDR6, 128 Bit - 46nsl8md9nxv",
+        "preco": "R$ 2.149,99",
+        "link": "https://www.kabum.com.br/produto/573742/placa-de-video-galax-geforce-rtx-4060-8gb-1-click-oc-v2-gddr6-128-bit-46nsl8md9nxv"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/587378/placa-de-video-rtx-3050-windforce-oc-gigabyte-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-gv-n3050wf2oc-6gd_1721922522_m.jpg",
+        "nome": "Placa de Vídeo RTX 3050 Windforce OC Gigabyte NVIDIA GeForce, 6GB GDDR6, DLSS, Ray Tracing - GV-N3050WF2OC-6GD",
+        "preco": "R$ 1.444,99",
+        "link": "https://www.kabum.com.br/produto/587378/placa-de-video-rtx-3050-windforce-oc-gigabyte-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-gv-n3050wf2oc-6gd"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/547108/placa-de-video-msi-rtx-3050-ventus-2x-xs-oc-nvidia-geforce-8gb-gddr6-912-v809-4266_1715967927_m.jpg",
+        "nome": "Placa de Vídeo MSI RTX 3050 Ventus 2X XS OC NVIDIA GeForce, 8GB GDDR6 - 912-V809-4266",
+        "preco": "R$ 1.209,99",
+        "link": "https://www.kabum.com.br/produto/547108/placa-de-video-msi-rtx-3050-ventus-2x-xs-oc-nvidia-geforce-8gb-gddr6-912-v809-4266"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/462199/placa-de-video-rtx-4060-ti-click-oc-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8coc_1684931957_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 Ti Click OC Galax NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - 46ISL8MD8COC",
+        "preco": "R$ 3.222,99",
+        "link": "https://www.kabum.com.br/produto/462199/placa-de-video-rtx-4060-ti-click-oc-galax-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing-46isl8md8coc"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/461730/placa-de-video-rtx-4060-ti-xlr8-gaming-verto-epic-x-pny-nvidia-geforce-8gb-gddr6-argb-dlss-ray-tracing-g-sync-vcg4060t8tfxxpb1_1689614595_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 TI XLR8 Gaming Verto Epic-x PNY NVIDIA GeForce, 8GB GDDR6, ARGB, DLSS, Ray Tracing, G-Sync - VCG4060T8TFXXPB1",
+        "preco": "R$ 3.000,99",
+        "link": "https://www.kabum.com.br/produto/461730/placa-de-video-rtx-4060-ti-xlr8-gaming-verto-epic-x-pny-nvidia-geforce-8gb-gddr6-argb-dlss-ray-tracing-g-sync-vcg4060t8tfxxpb1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/576423/placa-de-video-rx-7800xt-gaming-16g-xfx-speedster-qick319-radeon-16gb-ddr6-hdmi-3xdp-3-fan-rx-78tqickf9_1719595732_m.jpg",
+        "nome": "Placa de Vídeo RX 7800XT Gaming 16G XFX Speedster QICK319 AMD Radeon, 16GB DDR6, HDMI 3xDP 3 FAN - RX-78TQICKF9",
+        "preco": "R$ 3.789,99",
+        "link": "https://www.kabum.com.br/produto/576423/placa-de-video-rx-7800xt-gaming-16g-xfx-speedster-qick319-amd-radeon-16gb-ddr6-hdmi-3xdp-3-fan-rx-78tqickf9"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gdrr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd_1687981181_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 EAGLE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060EAGLE OC-8GD",
+        "preco": "R$ 2.556,99",
+        "link": "https://www.kabum.com.br/produto/470987/placa-de-video-rtx-4060-eagle-oc-gigabyte-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/475205/Placa-De-V-deo-RTX-4060-TI-Ventus-2x-Oc-MSI-Nvidia-8GB-GDDR6-912-V515-024_1718121780_m.jpg",
+        "nome": "Placa De Vídeo RTX 4060 TI Ventus 2x Oc, MSI, Nvidia, 8GB RAM, GDDR6 - 912-V515-024",
+        "preco": "R$ 2.799,90",
+        "link": "https://www.kabum.com.br/produto/475205/placa-de-video-rtx-4060-ti-ventus-2x-oc-msi-nvidia-8gb-ram-gddr6-912-v515-024"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514530/placa-de-video-rtx4060-proart-oc-edition-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm0-m0na00_1708956685_m.jpg",
+        "nome": "Placa de Vídeo RTX4060 ProArt OC Edition ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM0-M0NA00",
+        "preco": "R$ 2.299,99",
+        "link": "https://www.kabum.com.br/produto/514530/placa-de-video-rtx4060-proart-oc-edition-asus-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-90yv0jm0-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/160869/Placa-de-V-deo-GTX-1650-Galax-NVIDIA-GeForce-4GB-GDDR6-EX-Plus-1-Click-OC-128-Bits-65SQL8DS93E1_1731677318_m.jpg",
+        "nome": "Placa de Vídeo GTX 1650, Galax NVIDIA GeForce, 4GB GDDR6, EX Plus, 1-Click OC, 128 Bits - 65SQL8DS93E1",
+        "preco": "R$ 832,99",
+        "link": "https://www.kabum.com.br/produto/160869/placa-de-video-gtx-1650-galax-nvidia-geforce-4gb-gddr6-ex-plus-1-click-oc-128-bits-65sql8ds93e1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514535/placa-de-video-rx7600-oc-asus-amd-dual-radeon-8gb-gddr6-90yv0ih2-m0na00_1727373605_m.jpg",
+        "nome": "Placa de Vídeo RX7600 OC ASUS AMD Dual Radeon, 8GB GDDR6 - 90YV0IH2-M0NA00",
+        "preco": "R$ 2.000,99",
+        "link": "https://www.kabum.com.br/produto/514535/placa-de-video-rx7600-oc-asus-amd-dual-radeon-8gb-gddr6-90yv0ih2-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/246836/placa-de-video-gigabyte-radeon-rx-6600-eagle-8gb-gddr6-preto-gv-r66eagle-8gd_1634155420_m.jpg",
+        "nome": "Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto - GV-R66EAGLE-8GD",
+        "preco": "R$ 1.459,99",
+        "link": "https://www.kabum.com.br/produto/246836/placa-de-video-gigabyte-radeon-rx-6600-eagle-amd-8gb-gddr6-preto-gv-r66eagle-8gd"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/538895/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-912-v812-003_1711386727_m.jpg",
+        "nome": "Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, G- Sync - 912-V812-003",
+        "preco": "R$ 899,99",
+        "link": "https://www.kabum.com.br/produto/538895/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-g-sync-912-v812-003"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/525880/placa-de-video-rx-550-amd-pcyes-dual-fan-projeto-edge-4gb-gddr5-128-bits-pvex5504gbdf_1709840921_m.jpg",
+        "nome": "Placa de Vídeo RX 550 AMD PCYes Dual Fan Projeto Edge, 4GB GDDR5, 128 BITS - PVEX5504GBDF",
+        "preco": "R$ 576,99",
+        "link": "https://www.kabum.com.br/produto/525880/placa-de-video-rx-550-amd-pcyes-dual-fan-projeto-edge-4gb-gddr5-128-bits-pvex5504gbdf"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/185626/Placa-de-V-deo-RTX-3060-Gainward-NVIDIA-GeForce-Ghost-190AU-12GB-GDDR6-192-Bits-Dual-FAN-NE63060019K9_1729004667_m.jpg",
+        "nome": "Placa de Vídeo RTX 3060 Gainward NVIDIA GeForce, Ghost 190AU, 12GB, GDDR6, 192 Bits, Dual FAN - NE63060019K9",
+        "preco": "R$ 1.927,20",
+        "link": "https://www.kabum.com.br/produto/185626/placa-de-video-rtx-3060-gainward-nvidia-geforce-ghost-190au-12gb-gddr6-192-bits-dual-fan-ne63060019k9"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/534528/Placa-de-V-deo-Galax-NVIDIA-GeForce-RTX-3050-EX-6GB-GDDR6-96-Bits-35NRLDMD9OEX_1731960859_m.jpg",
+        "nome": "Placa de Vídeo Galax NVIDIA GeForce RTX 3050 EX, 6GB, GDDR6, 96 Bits - 35NRLDMD9OEX",
+        "preco": "R$ 1.284,99",
+        "link": "https://www.kabum.com.br/produto/534528/placa-de-video-galax-nvidia-geforce-rtx-3050-ex-6gb-gddr6-96-bits-35nrldmd9oex"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/597366/Placa-de-V-deo-Galax-RTX-4070TI-NVIDIA-GeForce-Super-EX-Gamer-16GB-GDDR6X-TecLab-Lite-Click-OC-DLSS3-G-Sync-47UZM6MD7JDL_1726078158_m.jpg",
+        "nome": "Placa de Vídeo Galax RTX 4070TI NVIDIA GeForce Super EX Gamer 16GB, GDDR6X, TecLab Lite Click OC, DLSS3 G-Sync - 47UZM6MD7JDL",
+        "preco": "R$ 6.314,99",
+        "link": "https://www.kabum.com.br/produto/597366/placa-de-video-galax-rtx-4070ti-nvidia-geforce-super-ex-gamer-16gb-gddr6x-teclab-lite-click-oc-dlss3-g-sync-47uzm6md7jdl"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/529101/placa-de-video-rx-7600-xt-asus-amd-radeon-dual-o16g-16gb-gddr6-90yv0k21-m0na00_1713956735_m.jpg",
+        "nome": "Placa de Vídeo RX 7600 XT OC ASUS AMD Radeon Dual O16G, 16GB GDDR6 - 90YV0K21-M0NA00",
+        "preco": "R$ 2.599,99",
+        "link": "https://www.kabum.com.br/produto/529101/placa-de-video-rx-7600-xt-oc-asus-amd-radeon-dual-o16g-16gb-gddr6-90yv0k21-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/470146/placa-de-video-rtx-4060-xlr8-verto-epic-x-gaming-pny-nvidia-geforce-8gb-gddr6-rgb-dlss-ray-tracing-vcg40608tfxxpb1_1688048530_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 XLR8 VERTO EPIC-X Gaming PNY NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing - VCG40608TFXXPB1",
+        "preco": "R$ 2.333,99",
+        "link": "https://www.kabum.com.br/produto/470146/placa-de-video-rtx-4060-xlr8-verto-epic-x-gaming-pny-nvidia-geforce-8gb-gddr6-rgb-dlss-ray-tracing-vcg40608tfxxpb1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/91431/91431_index_m.jpg",
+        "nome": "Placa de Vídeo VGA Galax NVIDIA GeForce GT 1030 2GB GDDR5 64Bits - 30NPH4HVQ4ST",
+        "preco": "R$ 552,99",
+        "link": "https://www.kabum.com.br/produto/91431/placa-de-video-vga-galax-nvidia-geforce-gt-1030-2gb-gddr5-64bits-30nph4hvq4st"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/575969/placa-de-video-rtx-a400-pny-nvidia-quadro-4gb-gddr6-64bits-vcnrtxa400tx-pb_1723640544_m.jpg",
+        "nome": "Placa de Vídeo RTX A400 PNY Nvidia Quadro, 4GB GDDR6, 64bits - VCNRTXA400ATX-PB",
+        "preco": "R$ 1.499,99",
+        "link": "https://www.kabum.com.br/produto/575969/placa-de-video-rtx-a400-pny-nvidia-quadro-4gb-gddr6-64bits-vcnrtxa400atx-pb"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/629059/Placa-De-V-deo-Gtx-1660-Nvidia-Geforce-Super-PCwinmax-6gb-Gddr6-192-Bits_1727907156_m.jpg",
+        "nome": "Placa De Vídeo Gtx 1660 Nvidia Geforce Super PCwinmax 6gb, Gddr6, 192 Bits",
+        "preco": "R$ 1.958,89",
+        "link": "https://www.kabum.com.br/produto/629059/placa-de-video-gtx-1660-nvidia-geforce-super-pcwinmax-6gb-gddr6-192-bits"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/502904/Placa-De-Video-Pcyes-AMD-Radeon-R7-240-4GB-GDDR5-128-Bits-Single-fan-Gaming-Edition-Pvr2404gbr5128_1731097939_m.jpg",
+        "nome": "Placa De Video Pcyes AMD Radeon R7 240, 4GB, GDDR5, 128 Bits, Single-fan, Gaming Edition - Pvr2404gbr5128",
+        "preco": "R$ 342,19",
+        "link": "https://www.kabum.com.br/produto/502904/placa-de-video-pcyes-amd-radeon-r7-240-4gb-gddr5-128-bits-single-fan-gaming-edition-pvr2404gbr5128"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/637744/Placa-De-Video-Vxpro-4gb-Nvidia-Gt-730-Ddr3-Low-Profile-Gt730lp-4gd3-c_1730744829_m.jpg",
+        "nome": "Placa De Video Vxpro 4gb Nvidia Gt 730 Ddr3 Low Profile Gt730lp-4gd3-c",
+        "preco": "R$ 263,52",
+        "link": "https://www.kabum.com.br/produto/637744/placa-de-video-vxpro-4gb-nvidia-gt-730-ddr3-low-profile-gt730lp-4gd3-c"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/581364/placa-de-video-rtx-4060-ti-white-dual-palit-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-ne6406t019p1-1048l_1728326592_m.jpg",
+        "nome": "Placa de Video RTX 4060 TI White Dual Palit NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - NE6406T019P1-1048L",
+        "preco": "R$ 2.699,99",
+        "link": "https://www.kabum.com.br/produto/581364/placa-de-video-rtx-4060-ti-white-dual-palit-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-ne6406t019p1-1048l"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/511040/placa-de-video-rtx-4060-ti-dual-palit-nvidia-geforce-8gb-gddr6-rgb-128bit-g-sync-ray-tracing-dlss-ne6406t019p1-1060d_1707154923_m.jpg",
+        "nome": "Placa de Video RTX 4060 TI Dual Palit NVIDIA GeForce, 8GB GDDR6, RGB, 128bit, G-Sync, Ray Tracing, DLSS - NE6406T019P1-1060D",
+        "preco": "R$ 2.889,99",
+        "link": "https://www.kabum.com.br/produto/511040/placa-de-video-rtx-4060-ti-dual-palit-nvidia-geforce-8gb-gddr6-rgb-128bit-g-sync-ray-tracing-dlss-ne6406t019p1-1060d"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/529102/placa-de-video-rx-7600-xt-asus-amd-radeon-tuf-o16g-gaming-16gb-gddr6-90yv0k20-m0na00_1713793921_m.jpg",
+        "nome": "Placa de Vídeo RX 7600 XT ASUS AMD Radeon Tuf 16G Gaming OC, 16GB GDDR6 - 90YV0K20-M0NA00",
+        "preco": "R$ 3.499,99",
+        "link": "https://www.kabum.com.br/produto/529102/placa-de-video-rx-7600-xt-asus-amd-radeon-tuf-16g-gaming-oc-16gb-gddr6-90yv0k20-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/583032/placa-de-video-rtx-4090-tuf-o24g-og-gaming-asus-nvidia-geforce-24gb-gddr6x-dlss-ray-tracing-g-sync-90yv0iy3-m0na00_1722281084_m.jpg",
+        "nome": "Placa de Vídeo RTX 4090 TUF 24G OG Gaming OC ASUS NVIDIA GeForce, 24GB GDDR6X, DLSS, Ray Tracing, G-Sync - 90YV0IY3-M0NA00",
+        "preco": "R$ 12.299,99",
+        "link": "https://www.kabum.com.br/produto/583032/placa-de-video-rtx-4090-tuf-24g-og-gaming-oc-asus-nvidia-geforce-24gb-gddr6x-dlss-ray-tracing-g-sync-90yv0iy3-m0na00"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/348098/placa-de-video-pcyes-nvidia-rtx-2060-graffiti-series-6gb-gddr6-preto-pa2060rtx6gdf-_1653939832_m.jpg",
+        "nome": "Placa de Vídeo PCyes NVIDIA RTX 2060 Graffiti Series, 6GB GDDR6, Preto - PA2060RTX6GDF",
+        "preco": "R$ 1.599,99",
+        "link": "https://www.kabum.com.br/produto/348098/placa-de-video-pcyes-nvidia-rtx-2060-graffiti-series-6gb-gddr6-preto-pa2060rtx6gdf"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/505870/Suporte-Para-Placa-De-V-deo-Ntc-R10-Branco-R10WHT_1699046301_m.jpg",
+        "nome": "Suporte Para Placa De Vídeo Ntc R10, Branco - R10WHT",
+        "preco": "R$ 17,58",
+        "link": "https://www.kabum.com.br/produto/505870/suporte-para-placa-de-video-ntc-r10-branco-r10wht"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/277927/Placa-de-V-deo-Afox-NVIDIA-GeForce-GT240-1024-MB-PCI-Express-2-0-VGA-HDMI-DVI_1724164981_m.jpg",
+        "nome": "Placa de Vídeo Afox NVIDIA GeForce GT240, 1024 MB, PCI Express 2.0, VGA, HDMI, DVI",
+        "preco": "R$ 177,48",
+        "link": "https://www.kabum.com.br/produto/277927/placa-de-video-afox-nvidia-geforce-gt240-1024-mb-pci-express-2-0-vga-hdmi-dvi"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/476794/placa-de-video-intel-arc-a770-phantom-gaming-asrock-16gb-gddr6-rgb-polychrome-sync-90-ga4kzz-00uanf_1696943713_m.jpg",
+        "nome": "Placa de Vídeo Intel Arc A770 Phantom Gaming AsRock, 16GB GDDR6, RGB, Polychrome SYNC - 90-GA4KZZ-00UANF",
+        "preco": "R$ 2.449,99",
+        "link": "https://www.kabum.com.br/produto/476794/placa-de-video-intel-arc-a770-phantom-gaming-asrock-16gb-gddr6-rgb-polychrome-sync-90-ga4kzz-00uanf"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/503487/Placa-De-V-deo-Aitek-GT210-1GB-DDR3-VGA-HDMI-500MHz_1705003693_m.jpg",
+        "nome": "Placa De Vídeo Aitek GT210, 1GB, DDR3, VGA/HDMI, 500MHz",
+        "preco": "R$ 137,71",
+        "link": "https://www.kabum.com.br/produto/503487/placa-de-video-aitek-gt210-1gb-ddr3-vga-hdmi-500mhz"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/616774/placa-de-video-r7-250-pcyes-amd-radeon-4gb-gddr5-128-bit-pjr7250x4gb_1724687799_m.jpg",
+        "nome": "Placa de Vídeo R7 250 PCYes AMD Radeon, 4GB GDDR5, 128 Bit - PJR7250X4GB",
+        "preco": "R$ 500,99",
+        "link": "https://www.kabum.com.br/produto/616774/placa-de-video-r7-250-pcyes-amd-radeon-4gb-gddr5-128-bit-pjr7250x4gb"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/475628/placa-de-video-rtx-4090-aero-oc-24g-gigabyte-nvidia-geforce-24gb-gddr6x-384bits-rgb-dlss-ray-tracing-gv-n4090aero-oc-24gd_1695146022_m.jpg",
+        "nome": "Placa de Vídeo RTX 4090 Aero OC 24G Gigabyte NVIDIA GeForce, 24GB GDDR6X, 384bits, RGB, DLSS, Ray Tracing - GV-N4090AERO OC-24GD",
+        "preco": "R$ 12.399,99",
+        "link": "https://www.kabum.com.br/produto/475628/placa-de-video-rtx-4090-aero-oc-24g-gigabyte-nvidia-geforce-24gb-gddr6x-384bits-rgb-dlss-ray-tracing-gv-n4090aero-oc-24gd"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/523380/Placa-de-v-deo-Galax-NVIDIA-GeForce-RTX-4070-TI-Super-SG-16GB-GDDR6X-DLSS-Ray-Tracing-47UZM6MD6MER_1731160335_m.jpg",
+        "nome": "Placa de vídeo Galax NVIDIA GeForce RTX 4070 TI Super SG, 16GB, GDDR6X, DLSS Ray Tracing - 47UZM6MD6MER",
+        "preco": "R$ 8.242,30",
+        "link": "https://www.kabum.com.br/produto/523380/placa-de-video-galax-nvidia-geforce-rtx-4070-ti-super-sg-16gb-gddr6x-dlss-ray-tracing-47uzm6md6mer"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/531095/Placa-De-V-deo-Nvidia-Duex-Geforce-Gt-730-4GB-GDDR3-128-Bits-Gt730lp-4gd3_1712716692_m.jpg",
+        "nome": "Placa De Vídeo Nvidia Duex Geforce Gt 730, 4GB, GDDR3, 128 Bits - Gt730lp-4gd3",
+        "preco": "R$ 1.093,50",
+        "link": "https://www.kabum.com.br/produto/531095/placa-de-video-nvidia-duex-geforce-gt-730-4gb-gddr3-128-bits-gt730lp-4gd3"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/565376/Placa-De-V-deo-Msi-RTX-3050-6gb-96bits-Gddr6-Low-Profile-Oc-PCi-e-6266-6266_1731527659_m.jpg",
+        "nome": "Placa De Vídeo Msi RTX 3050 6gb 96bits Gddr6 Low Profile Oc PCi-e - 6266 6266",
+        "preco": "R$ 1.377,00",
+        "link": "https://www.kabum.com.br/produto/565376/placa-de-video-msi-rtx-3050-6gb-96bits-gddr6-low-profile-oc-pci-e-6266-6266"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/581689/placa-de-video-rtx-4060-pcyes-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-pa40608gr6df_1719597907_m.jpg",
+        "nome": "Placa de Vídeo RTX 4060 PCYes NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - PA40608GR6DF",
+        "preco": "R$ 1.949,99",
+        "link": "https://www.kabum.com.br/produto/581689/placa-de-video-rtx-4060-pcyes-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-pa40608gr6df"
+    }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Promohard | Home</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="../css/consulta.css" />
+  <script defer src="../js/consulta.js"></script> <!-- Arquivo JavaScript -->
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="h1Home">
+        <a href="../pages/index.html">
+          <h1>Promo<strong class="red">hard</strong></h1>
+        </a>
+      </div>
+      <nav>
+        <ul id="menu">
+          <li id="create-account"><a href="../pages/cadastro.html">Criar Conta</a></li>
+          <li id="login"><a href="../pages/login.html">Fazer Login</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="main-content">
+      <div class="filter-group">
+        <h3>O que está procurando?</h3>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="cpu" /><span>Processador</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="mobo" /> <span>Placa-Mãe</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="gpu" /> <span>Placa de Vídeo</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="memory" /><span>Memória RAM</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="ssd" /><span>SSD</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="hdd" /><span>HDD</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="psu" /> <span>Fonte</span></label>
+        <label><input class="inputCategoria" type="checkbox" name="category" value="cooling" /> <span>Resfriamento & Ventoinhas</span></label>
+        <label><input type="checkbox" name="category" value="case" /> <span>Gabinete</span></label>
+
+        <div class="button">
+          <button id="consultarButton">Consultar</button>
+        </div>
+      </div>
+    </div>
+    <script src="../js/consulta.js"></script>
+  </body>
+</html>

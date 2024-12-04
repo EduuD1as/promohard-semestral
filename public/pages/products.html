@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Página de Produtos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../css/products.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="header-container">
+          <div class="h1Home">
+            <a href="#">
+              <h1>Promo<strong class="red">hard</strong></h1>
+            </a>
+          </div>
+          <div class="search-container">
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Buscar produtos..."
+              style="font-family: 'Inter'; font-size: 12px"
+            />
+            <button id="search-button" style="padding: 0">
+              <img
+                src="../assets/search-svgrepo-com (1).svg"
+                alt=""
+                style="width: 26px; height: 26px; vertical-align: middle"
+              />
+            </button>
+          </div>
+          <nav>
+            <ul id="menu">
+              <li>
+                <button
+                  id="logoutButton"
+                  style="
+                    background: none;
+                    border: none;
+                    color: #333;
+                    cursor: pointer;
+                    font-family: 'Inter';
+                    font-size: 16px;
+                    padding: 0;
+                    vertical-align: middle;
+                  "
+                >
+                  Sair
+                </button>
+                <img
+                  src="../assets/favorite-svgrepo-com.svg"
+                  alt="Favoritos"
+                  id="favoritesButton"
+                  style="
+                    width: 24px;
+                    height: 24px;
+                    cursor: pointer;
+                    margin-left: 10px;
+                  "
+                />
+                <div id="favoritesDropdown" class="dropdown-content">
+                  <!-- Menu suspenso de favoritos -->
+                  <p>Nenhum item adicionado aos favoritos.</p>
+                </div>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+
+      <div id="addProductDropdown" class="dropdown-content">
+        <form id="addProductForm">
+          <label for="productName">Nome do Produto:</label>
+          <input
+            type="text"
+            id="productName"
+            name="productName"
+            placeholder="Insira o nome do produto..."
+            required
+          />
+
+          <label for="productLink">Link do Produto:</label>
+          <input
+            type="text"
+            id="productLink"
+            name="productLink"
+            placeholder="Insira o link do produto..."
+          />
+          <p style="font-size: 12px; margin-top: 4px">
+            Ao clicar em <strong style="color: #4caf50">Adicionar</strong>, o
+            produto irá ficar como status
+            <strong style="color: orange">Pendente <br> </strong> para aprovação de
+            algum administrador. Assim que o produto for aceito, <br> será
+            disponibilizado na aba
+            <strong style="color: #007bff"
+              >Produtos e Promoções da Comunidade</strong
+            >.
+          </p>
+          <button
+            type="button"
+            id="submitProductButton"
+            style="margin-bottom: 4px"
+          >
+            Adicionar
+          </button>
+          <button
+            type="button"
+            id="cancelProductButton"
+            style="background-color: #d52323"
+          >
+            Cancelar
+          </button>
+        </form>
+      </div>
+
+      <div id="divNav">
+        <nav>
+          <a href="javascript:void(0)" data-category="cpu">PROCESSADOR</a>
+          <a href="javascript:void(0)" data-category="mobo">PLACA MÃE</a>
+          <a href="javascript:void(0)" data-category="gpu">PLACA DE VÍDEO</a>
+          <a href="javascript:void(0)" data-category="ram">MEMÓRIA</a>
+          <a href="javascript:void(0)" data-category="ssd">SSD</a>
+          <a href="javascript:void(0)" data-category="hdd">HDD</a>
+          <a href="javascript:void(0)" data-category="psu">FONTE</a>
+          <a href="javascript:void(0)" data-category="cooling"
+            >RESFRIAMENTO & VENTOINHAS</a
+          >
+          <a href="javascript:void(0)" data-category="case">GABINETE</a>
+        </nav>
+      </div>
+
+      <div class="main-content">
+        <button id="gotoCommunityProducts" class="redirection-button">
+          Ver Produtos da Comunidade
+        </button>
+
+        <aside class="filter-sidebar">
+          <div class="filter-group">
+            <h3>Filtros</h3>
+            <div id="filters"></div>
+          </div>
+          <div class="filter-group">
+            <h3>Preços</h3>
+            <label>
+              <input type="radio" name="price" value="low" />
+              <span>Até R$ 100</span>
+            </label>
+            <label>
+              <input type="radio" name="price" value="medium" />
+              <span>R$ 100 - R$ 500</span>
+            </label>
+            <label>
+              <input type="radio" name="price" value="high" />
+              <span>Acima de R$ 500</span>
+            </label>
+          </div>
+          <div class="divButtonAplicar">
+            <button>Aplicar Filtro</button>
+          </div>
+        </aside>
+
+        <section id="produtos-grid" class="product-grid"></section>
+      </div>
+    </div>
+
+    <footer>
+      <div class="pagination">
+        <button id="first-page">Primeira Página</button>
+        <button id="prev-page">Anterior</button>
+        <span id="page-numbers"></span>
+        <button id="next-page">Próxima</button>
+        <button id="last-page">Última Página</button>
+      </div>
+    </footer>
+
+    <script src="../js/products.js"></script>
+  </body>
+</html>

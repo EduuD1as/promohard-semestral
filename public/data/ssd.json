@@ -1,0 +1,950 @@
+[
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/272356/ssd-kingston-fury-renegade-1000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-6-000mb-s-sfyrs-1000g_1637328670_m.jpg",
+        "nome": "SSD Kingston Fury Renegade, 1 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 6000 MB/s, Compatível com PS5 - SFYRS/1000G",
+        "preco": "R$ 729,99",
+        "link": "https://www.kabum.com.br/produto/272356/ssd-kingston-fury-renegade-1-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-6000-mb-s-compativel-com-ps5-sfyrs-1000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/593421/ssd-pcie-adata-1000gb-nvme-leitura-3-500mb-s-e-gravacao-2-800mb-s-preto-aleg-800-1000gcs_1721848515_m.jpg",
+        "nome": "SSD ADATA 1TB, M.2 2280, NVME, PCIe gen 4x4, Leitura: 3.500MB/s e Gravação: 2.800MB/s - ALEG-800-1000GCS",
+        "preco": "R$ 449,99",
+        "link": "https://www.kabum.com.br/produto/593421/ssd-adata-1tb-m-2-2280-nvme-pcie-gen-4x4-leitura-3-500mb-s-e-gravacao-2-800mb-s-aleg-800-1000gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/400812/SSD-1TB-Kingston-Nv2-M-2-2280-PCIe-NVMe-Leitura-3500MB-s-Grava-o-2100MB-s-Snv2s-1000g_1730146924_m.jpg",
+        "nome": "SSD 1TB Kingston Nv2, M.2 2280 PCIe, NVMe, Leitura 3500MB/s, Gravação 2100MB/s - Snv2s/1000g",
+        "preco": "R$ 451,28",
+        "link": "https://www.kabum.com.br/produto/400812/ssd-1tb-kingston-nv2-m-2-2280-pcie-nvme-leitura-3500mb-s-gravacao-2100mb-s-snv2s-1000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/538706/ssd-512gb-kbm-gaming-sata-iii-leitura-520-mb-s-gravacao-450-mb-s-kgssd110512_1718387474_m.jpg",
+        "nome": "SSD 512GB KBM! Gaming, SATA III, Leitura 520 MB/s, Gravação 450 MB/s - KGSSD110512",
+        "preco": "R$ 249,99",
+        "link": "https://www.kabum.com.br/produto/538706/ssd-512gb-kbm-gaming-sata-iii-leitura-520-mb-s-gravacao-450-mb-s-kgssd110512"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/499278/ssd-1t-sandisk-plus-nvme-m-2-pcle-gen3-leitura-3-200-e-gravacao-acima-de-3-200-sdssda3n-1t00-g26_1704290603_m.jpg",
+        "nome": "SSD 1TB SanDisk Plus NVMe, M.2, PCle, Gen3, Leitura 3.200 e Gravação acima de 3.200 - SDSSDA3N-1T00-G26",
+        "preco": "R$ 499,99",
+        "link": "https://www.kabum.com.br/produto/499278/ssd-1tb-sandisk-plus-nvme-m-2-pcle-gen3-leitura-3-200-e-gravacao-acima-de-3-200-sdssda3n-1t00-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/551015/ssd-pcie-lexar-internal-nm620-512gb-leitura-3500mb-s-e-gravacao-2400mb-s-preto-lnm620x512g-rnnnu_1716492217_m.jpg",
+        "nome": "SSD PCIe Lexar Internal NM620, 512GB, Leitura 3500MB/s e Gravação 2400MB/s, Preto - LNM620X512G-RNNNU",
+        "preco": "R$ 239,99",
+        "link": "https://www.kabum.com.br/produto/551015/ssd-pcie-lexar-internal-nm620-512gb-leitura-3500mb-s-e-gravacao-2400mb-s-preto-lnm620x512g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/621162/ssd-pcie-kingston-nv3-1-tb-m-2-2280-nvme-leitura-6000-mb-s-e-gravacao-4000-mb-s-snv3s-1000g_1726082185_m.jpg",
+        "nome": "SSD Kingston NV3, 1 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 6000 MB/s, Gravação: 4000 MB/s, Azul - SNV3S/1000G",
+        "preco": "R$ 499,99",
+        "link": "https://www.kabum.com.br/produto/621162/ssd-kingston-nv3-1-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-6000-mb-s-gravacao-4000-mb-s-azul-snv3s-1000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/538707/ssd-1tb-kbm-gaming-sata-iii-leitura-550-mb-s-gravacao-500-mb-s-kgssd1101000_1718387755_m.jpg",
+        "nome": "SSD 1TB KBM! Gaming, SATA III, Leitura 550 MB/s, Gravação 500 MB/s - KGSSD1101000",
+        "preco": "R$ 479,99",
+        "link": "https://www.kabum.com.br/produto/538707/ssd-1tb-kbm-gaming-sata-iii-leitura-550-mb-s-gravacao-500-mb-s-kgssd1101000"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/429825/ssd-sata-adata-su650-512gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-512gt-r_1724167485_m.jpg",
+        "nome": "SSD SATA Adata SU650, 512GB, 2.5\", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-512GT-R",
+        "preco": "R$ 229,99",
+        "link": "https://www.kabum.com.br/produto/429825/ssd-sata-adata-su650-512gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-512gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/105015/ssd-sata-adata-su650-240gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-240gt-r_1724166980_m.jpg",
+        "nome": "SSD SATA Adata SU650, 240GB, 2.5\", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-240GT-R",
+        "preco": "R$ 138,99",
+        "link": "https://www.kabum.com.br/produto/105015/ssd-sata-adata-su650-240gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-240gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/472304/ssd-lexar-240gb-sata-leitura-550mb-s-2-5-cinza-lnq100x240g-rnnnu_1691500306_m.jpg",
+        "nome": "SSD SATA Lexar, 240GB, 2.5\", Leitura 550MB/s, Cinza - LNQ100X240G-RNNNU",
+        "preco": "R$ 139,99",
+        "link": "https://www.kabum.com.br/produto/472304/ssd-sata-lexar-240gb-2-5-leitura-550mb-s-cinza-lnq100x240g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/583229/ssd-sata-lexar-ns100-256gb-leitura-520mb-s-lns100-256rb_1720716663_m.jpg",
+        "nome": "SSD SATA Lexar NS100, 256GB, Leitura: 520MB/s - LNS100-256RB",
+        "preco": "R$ 167,99",
+        "link": "https://www.kabum.com.br/produto/583229/ssd-sata-lexar-ns100-256gb-leitura-520mb-s-lns100-256rb"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/272357/ssd-kingston-fury-renegade-2000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-7-000mb-s-sfyrd-2000g_1637329356_m.jpg",
+        "nome": "SSD Kingston Fury Renegade, 2 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 7000 MB/s, Compatível com PS5 - SFYRD/2000G",
+        "preco": "R$ 1.278,99",
+        "link": "https://www.kabum.com.br/produto/272357/ssd-kingston-fury-renegade-2-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-7000-mb-s-compativel-com-ps5-sfyrd-2000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/528686/ssd-externo-lexar-512gb-sl200-usb-3-1-leitura-550mb-s-gravacao-400mb-s-lsl200x512g-rnnnu_1713887023_m.jpg",
+        "nome": "SSD Externo Lexar 512GB SL200, USB 3.1, Leitura 550MB/s Gravação 400MB/s - LSL200X512G-RNNNU",
+        "preco": "R$ 359,99",
+        "link": "https://www.kabum.com.br/produto/528686/ssd-externo-lexar-512gb-sl200-usb-3-1-leitura-550mb-s-gravacao-400mb-s-lsl200x512g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/536953/ssd-wd-green-1tb-sn350-m-2-2280-pcie-nvme-leitura-2400mb-s-e-gravacao-1850mb-s-verde-wds100t2g0c_1713354616_m.jpg",
+        "nome": "SSD WD Green 1TB SN350, M.2 2280, PCIe, NVMe, Leitura: 2400MB/s e Gravação:1850MB/s, Verde - WDS100T2G0C",
+        "preco": "R$ 449,99",
+        "link": "https://www.kabum.com.br/produto/536953/ssd-wd-green-1tb-sn350-m-2-2280-pcie-nvme-leitura-2400mb-s-e-gravacao-1850mb-s-verde-wds100t2g0c"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/538712/ssd-1tb-kbm-gaming-m-2-nvme-pcie-leitura-2400-mb-s-gravacao-1700-mb-s-kgssd3101000_1718630224_m.jpg",
+        "nome": "SSD 1TB KBM! Gaming, M.2 NVMe, PCIe, Leitura 2400 MB/s, Gravação 1700 MB/s - KGSSD3101000",
+        "preco": "R$ 459,99",
+        "link": "https://www.kabum.com.br/produto/538712/ssd-1tb-kbm-gaming-m-2-nvme-pcie-leitura-2400-mb-s-gravacao-1700-mb-s-kgssd3101000"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/311954/ssd-wd-black-sn770-1tb-m-2-pcie-gen4x4-nvme-leitura-5150mb-s-gravacao-4900mb-s-wds100t3x0e_1645633305_m.jpg",
+        "nome": "SSD 1 TB WD Black SN770, M.2, PCIe Gen4x4, NVMe, Leitura: 5150MB/s e Gravação: 4900MB/s - WDS100T3X0E",
+        "preco": "R$ 609,99",
+        "link": "https://www.kabum.com.br/produto/311954/ssd-1-tb-wd-black-sn770-m-2-pcie-gen4x4-nvme-leitura-5150mb-s-e-gravacao-4900mb-s-wds100t3x0e"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/529595/ssd-hawking-120gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-120_1721235900_m.jpg",
+        "nome": "SSD Hawking 120GB SATA 2.5\", Leitura 500MBs Gravação 450MBs - HKPSA-120",
+        "preco": "R$ 89,99",
+        "link": "https://www.kabum.com.br/produto/529595/ssd-hawking-120gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-120"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/380746/ssd-kingston-nv2-2-tb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-2000g_1666033248_m.jpg",
+        "nome": "SSD Kingston NV2, 2 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 3500 MB/s, Gravação: 2800 MB/s, Azul - SNV2S/2000G",
+        "preco": "R$ 1.111,99",
+        "link": "https://www.kabum.com.br/produto/380746/ssd-kingston-nv2-2-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-3500-mb-s-gravacao-2800-mb-s-azul-snv2s-2000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/529596/ssd-hawking-240gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-240_1721236177_m.jpg",
+        "nome": "SSD Hawking 240GB SATA 2.5\", Leitura 500MBs Gravação 450MBs - HKPSA-240",
+        "preco": "R$ 149,99",
+        "link": "https://www.kabum.com.br/produto/529596/ssd-hawking-240gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-240"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/311023/ssd-wd-green-1-tb-sata-iii-leitura-545mb-s-gravacao-550mb-s-wds100t3g0a_1662123953_m.jpg",
+        "nome": "SSD SATA WD Green, 1TB, 2.5\", Leitura: 545MB/s e Gravação: 550MB/s, Preto - WDS100T3G0A",
+        "preco": "R$ 556,99",
+        "link": "https://www.kabum.com.br/produto/311023/ssd-sata-wd-green-1tb-2-5-leitura-545mb-s-e-gravacao-550mb-s-preto-wds100t3g0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/98544/98544_1537969934_index_m.jpg",
+        "nome": "SSD SATA Crucial BX500, 240GB, 2.5\", Leitura: 540MB/s e Gravação: 500MB/s, Preto - CT240BX500SSD1",
+        "preco": "R$ 149,99",
+        "link": "https://www.kabum.com.br/produto/98544/ssd-sata-crucial-bx500-240gb-2-5-leitura-540mb-s-e-gravacao-500mb-s-preto-ct240bx500ssd1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/202655/SSD-Adata-Su650-240GB-Leitura-520-MB-s-Grava-o-450MB-s-Asu650ss-240gt-r_1731518764_m.jpg",
+        "nome": "SSD Adata Su650 240GB, Leitura 520 MB/s, Gravação 450MB/s - Asu650ss-240gt-r",
+        "preco": "R$ 109,90",
+        "link": "https://www.kabum.com.br/produto/202655/ssd-adata-su650-240gb-leitura-520-mb-s-gravacao-450mb-s-asu650ss-240gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/169967/ssd-xpg-s70-blade-1tb-m-2-nvme-pcie-gen4x4-leitura-7400mb-s-e-gravacao-5500mb-s-3d-nand-agammixs70b-1t-cs_1628862634_m.jpg",
+        "nome": "SSD ADATA XPG 1TB, S70 Blade, PCIe Gen4x4, M.2 2280, NVMe, Leitura: 7400MB/s e Gravação: 5500MB/s, 3D NAND - AGAMMIXS70B-1T-CS",
+        "preco": "R$ 599,99",
+        "link": "https://www.kabum.com.br/produto/169967/ssd-adata-xpg-1tb-s70-blade-pcie-gen4x4-m-2-2280-nvme-leitura-7400mb-s-e-gravacao-5500mb-s-3d-nand-agammixs70b-1t-cs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/534686/ssd-externo-portatil-sandisk-1tb-usb-leitura-800mb-s-preto-e-laranja-sdssde30-1t00-g26_1716569151_m.jpg",
+        "nome": "SSD Externo Portátil Sandisk, 1TB, USB, Leitura: 800MB/s, Preto e Laranja - SDSSDE30-1T00-G26",
+        "preco": "R$ 548,99",
+        "link": "https://www.kabum.com.br/produto/534686/ssd-externo-portatil-sandisk-1tb-usb-leitura-800mb-s-preto-e-laranja-sdssde30-1t00-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/338410/ssd-wd-green-480gb-m-2-leitura-545mb-s-wds480g3g0b_1652465880_m.jpg",
+        "nome": "SSD 480 GB WD Green, M.2, Leitura: 545MB/s - WDS480G3G0B",
+        "preco": "R$ 244,99",
+        "link": "https://www.kabum.com.br/produto/338410/ssd-480-gb-wd-green-m-2-leitura-545mb-s-wds480g3g0b"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/105016/ssd-sata-adata-ultimate-su650-480gb-2-5-leitura-520mb-s-gravacao-450mb-s-preto-asu650ss-480gt-r_1724167224_m.jpg",
+        "nome": "SSD SATA Adata Ultimate SU650, 480GB, 2.5\", Leitura: 520MB/s, Gravação: 450MB/s, Preto - ASU650SS-480GT-R",
+        "preco": "R$ 235,99",
+        "link": "https://www.kabum.com.br/produto/105016/ssd-sata-adata-ultimate-su650-480gb-2-5-leitura-520mb-s-gravacao-450mb-s-preto-asu650ss-480gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/102489/ssd-lexar-ns100-512gb-sata-leitura-550mb-s-lns100-512rbna_ssd-lexar-ns100-512gb-sata-leitura-550mb-s-lns100-512rbna_1563206253_m.jpg",
+        "nome": "SSD SATA Lexar NS100, 512GB, 2.5\", Leitura 550MB/s, Preto - LNS100-512RBNA",
+        "preco": "R$ 267,99",
+        "link": "https://www.kabum.com.br/produto/102489/ssd-sata-lexar-ns100-512gb-2-5-leitura-550mb-s-preto-lns100-512rbna"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/593422/ssd-pcie-adata-2000gb-nvme-leitura-3-500mb-s-e-gravacao-2-800mb-s-preto-aleg-800-2000gcs_1721927361_m.jpg",
+        "nome": "SSD PCIe ADATA, 2TB, NVMe, Leitura: 3.500MB/s e Gravação: 2.800MB/s, Preto - ALEG-800-2000GCS",
+        "preco": "R$ 899,99",
+        "link": "https://www.kabum.com.br/produto/593422/ssd-pcie-adata-2tb-nvme-leitura-3-500mb-s-e-gravacao-2-800mb-s-preto-aleg-800-2000gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/102487/ssd-lexar-ns100-128gb-sata-leitura-520mb-s-lns100-128rbna_ssd-lexar-ns100-128gb-sata-leitura-520mb-s-lns100-128rbna_1563205692_m.jpg",
+        "nome": "SSD SATA Lexar NS100, 128GB, 2.5\", Leitura 550MB/s, Preto - LNS100-128RBNA",
+        "preco": "R$ 79,99",
+        "link": "https://www.kabum.com.br/produto/102487/ssd-sata-lexar-ns100-128gb-2-5-leitura-550mb-s-preto-lns100-128rbna"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/593420/ssd-pcie-adata-500gb-nvme-leitura-3-500mb-s-e-gravacao-2-800mb-s-preto-aleg-800-500gcs_1721841968_m.jpg",
+        "nome": "SSD PCIe ADATA, 500GB, NVMe, Leitura: 3.500MB/s e Gravação: 2.800MB/s, Preto - ALEG-800-500GCS",
+        "preco": "R$ 311,99",
+        "link": "https://www.kabum.com.br/produto/593420/ssd-pcie-adata-500gb-nvme-leitura-3-500mb-s-e-gravacao-2-800mb-s-preto-aleg-800-500gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/454635/ssd-2tb-corsair-mp600-core-xt-pcie-gen-4-0-x4-nvme-m-2-leitura-5000mb-s-e-gravacao-4400mb-s-preto-cssd-f2000gbmp600cxt_1688065183_m.jpg",
+        "nome": "SSD 2TB Corsair MP600 CORE XT, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 5000MB/s e Gravação: 4400MB/s, Preto - CSSD-F2000GBMP600CXT",
+        "preco": "R$ 1.389,99",
+        "link": "https://www.kabum.com.br/produto/454635/ssd-2tb-corsair-mp600-core-xt-pcie-gen-4-0-x4-nvme-m-2-leitura-5000mb-s-e-gravacao-4400mb-s-preto-cssd-f2000gbmp600cxt"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/472305/ssd-lexar-480gb-sata-leitura-550mb-s-2-5-cinza-lnq100x480g-rnnnu_1691501193_m.jpg",
+        "nome": "SSD SATA Lexar, 480GB, 2.5\", Leitura 550MB/s, Cinza - LNQ100X480G-RNNNU",
+        "preco": "R$ 229,99",
+        "link": "https://www.kabum.com.br/produto/472305/ssd-sata-lexar-480gb-2-5-leitura-550mb-s-cinza-lnq100x480g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/499277/ssd-500gb-sandisk-plus-nvme-m-2-pcle-gen3-leitura-3-000-e-gravacao-acima-de-3-000-sdssda3n-500g-g26_1704307111_m.jpg",
+        "nome": "SSD 500GB SanDisk Plus NVMe, M.2, PCle, Gen3, Leitura 2400MB/s e Gravação 2400MB/s - SDSSDA3N-500G-G26",
+        "preco": "R$ 344,99",
+        "link": "https://www.kabum.com.br/produto/499277/ssd-500gb-sandisk-plus-nvme-m-2-pcle-gen3-leitura-2400mb-s-e-gravacao-2400mb-s-sdssda3n-500g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/80575/80575_index_m.jpg",
+        "nome": "SSD SATA Sandisk, 480GB, 2.5\" Leitura: 535MB/s e Gravação: 445MB/s Preto - SDSSDA-480G-G26",
+        "preco": "R$ 269,99",
+        "link": "https://www.kabum.com.br/produto/80575/ssd-sata-sandisk-480gb-2-5-leitura-535mb-s-e-gravacao-445mb-s-preto-sdssda-480g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/338409/ssd-wd-green-240gb-m-2-leitura-545mb-s-wds240g3g0b_1652465760_m.jpg",
+        "nome": "SSD 240 GB WD Green, M.2, Leitura: 545MB/s - WDS240G3G0B",
+        "preco": "R$ 169,99",
+        "link": "https://www.kabum.com.br/produto/338409/ssd-240-gb-wd-green-m-2-leitura-545mb-s-wds240g3g0b"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/155125/ssd-patriot-burst-elite-240gb-2-5-sata-iii-leitura-555mb-s-e-gravacao-500mb-s-pbe240gs25ssdr_1620916040_m.jpg",
+        "nome": "SSD SATA Patriot Burst Elite, 240GB, 2.5\", Leitura: 450MB/s e Gravação: 320MB/s, Preto - PBE240GS25SSDR",
+        "preco": "R$ 118,99",
+        "link": "https://www.kabum.com.br/produto/155125/ssd-sata-patriot-burst-elite-240gb-2-5-leitura-450mb-s-e-gravacao-320mb-s-preto-pbe240gs25ssdr"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/272332/ssd-kingston-kc3000-2048gb-m-2-2280-pcie-nvme-leituras-7-000mb-s-gravacao-7-000mb-s-skc3000d-2048g_1637325071_m.jpg",
+        "nome": "SSD Kingston KC3000, 2 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7000 MB/s, Gravação: 7000 MB/s, Preto - SKC3000D/2048G",
+        "preco": "R$ 1.221,99",
+        "link": "https://www.kabum.com.br/produto/272332/ssd-kingston-kc3000-2-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7000-mb-s-gravacao-7000-mb-s-preto-skc3000d-2048g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/169968/ssd-xpg-s70-blade-2tb-m-2-nvme-pcie-gen4x4-leitura-7400mb-s-e-gravacao-6400mb-s-3d-nand-agammixs70b-2t-cs_1628863880_m.jpg",
+        "nome": "SSD 2TB XPG S70 Blade, PCIe Gen4x4, M.2 NVMe, Leitura: 7400MB/s e Gravação: 6400MB/s, 3D NAND - AGAMMIXS70B-2T-CS",
+        "preco": "R$ 1.444,99",
+        "link": "https://www.kabum.com.br/produto/169968/ssd-2tb-xpg-s70-blade-pcie-gen4x4-m-2-nvme-leitura-7400mb-s-e-gravacao-6400mb-s-3d-nand-agammixs70b-2t-cs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/621161/ssd-pcie-kingston-nv3-500gb-m-2-2280-nvme-leitura-5000-mb-s-e-gravacao-3000-mb-s-snv3s-500g_1726080929_m.jpg",
+        "nome": "SSD Kingston NV3, 500 GB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 5000 MB/s, Gravação: 3000 MB/s, Azul - SNV3S/500G",
+        "preco": "R$ 334,99",
+        "link": "https://www.kabum.com.br/produto/621161/ssd-kingston-nv3-500-gb-m-2-2280-pcie-4-0-x4-nvme-leitura-5000-mb-s-gravacao-3000-mb-s-azul-snv3s-500g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/415886/ssd-adata-legend-710-1tb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-1tcs_1675086212_m.jpg",
+        "nome": "SSD Adata Legend 710, 1TB, M.2 2280, PCIe GEN3x4, NVMe 1.4, Leitura: 2.400 MB/s e Gravação: 1.800 MB/s, Azul - ALEG-710-1TCS",
+        "preco": "R$ 500,99",
+        "link": "https://www.kabum.com.br/produto/415886/ssd-adata-legend-710-1tb-m-2-2280-pcie-gen3x4-nvme-1-4-leitura-2-400-mb-s-e-gravacao-1-800-mb-s-azul-aleg-710-1tcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/633107/SSD-Kingston-1TB-Padr-o-Nv3-M-2-2280-NVMe-4-0-Gen-4x4-Leitura-E-Grava-o-6000-4000MBps-Ultra-R-pido-Snv3s-1000g_1731775938_m.jpg",
+        "nome": "SSD Kingston 1TB Padrão Nv3, M.2 2280 NVMe 4.0 Gen 4x4, Leitura E Gravação: 6000/4000MBps, Ultra Rápido - Snv3s/1000g",
+        "preco": "R$ 625,10",
+        "link": "https://www.kabum.com.br/produto/633107/ssd-kingston-1tb-padrao-nv3-m-2-2280-nvme-4-0-gen-4x4-leitura-e-gravacao-6000-4000mbps-ultra-rapido-snv3s-1000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514254/ssd-rise-mode-gamer-z-series-256gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-256_1708631033_m.jpg",
+        "nome": "SSD Rise Mode Gamer Z Series 256GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-256",
+        "preco": "R$ 189,99",
+        "link": "https://www.kabum.com.br/produto/514254/ssd-rise-mode-gamer-z-series-256gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-256"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/369074/ssd-sandisk-plus-1tb-sata-iii-leitura-535mb-s-gravacao-450mb-s-sdssda-1t00-g27_1660219950_m.jpg",
+        "nome": "SSD SATA SanDisk Plus, 1TB, 2.5\", Leitura: 535MB/s e Gravação: 350MB/s, Preto - SDSSDA-1T00-G27",
+        "preco": "R$ 459,99",
+        "link": "https://www.kabum.com.br/produto/369074/ssd-sata-sandisk-plus-1tb-2-5-leitura-535mb-s-e-gravacao-350mb-s-preto-sdssda-1t00-g27"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/529597/ssd-hawking-512gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-512_1721236407_m.jpg",
+        "nome": "SSD Hawking 512GB SATA 2.5\", Leitura 500MBs Gravação 450MBs - HKPSA-512",
+        "preco": "R$ 289,99",
+        "link": "https://www.kabum.com.br/produto/529597/ssd-hawking-512gb-sata-2-5-leitura-500mbs-gravacao-450mbs-hkpsa-512"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/459936/ssd-kingston-960gb-dc600m-mixed-use-sata-2-5-leitura-560mb-s-e-gravacao-530mb-s-sedc600m-960g_1686053706_m.jpg",
+        "nome": "SSD Kingston DC600M Mixed-Use, 960 GB, SATA III, 2.5\", Leitura: 560 MB/s, Gravação: 530 MB/s, Preto, para Servidor - SEDC600M/960G",
+        "preco": "R$ 1.199,99",
+        "link": "https://www.kabum.com.br/produto/459936/ssd-kingston-dc600m-mixed-use-960-gb-sata-iii-2-5-leitura-560-mb-s-gravacao-530-mb-s-preto-para-servidor-sedc600m-960g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/155124/ssd-patriot-burst-elite-120gb-2-5-sata-iii-leitura-450mb-s-e-gravacao-320mb-s-pbe120gs25ssdr_1620915564_m.jpg",
+        "nome": "SSD 120 GB Patriot Burst Elite, 2.5\", SATA III, Leitura: 450MB/s e Gravação: 320MB/s - PBE120GS25SSDR",
+        "preco": "R$ 78,99",
+        "link": "https://www.kabum.com.br/produto/155124/ssd-120-gb-patriot-burst-elite-2-5-sata-iii-leitura-450mb-s-e-gravacao-320mb-s-pbe120gs25ssdr"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/594176/SSD-M-2-1TB-Kingston-Nv2-Nvme-2280-3500mbps-Snv2s_1731962960_m.jpg",
+        "nome": "SSD M.2 1TB Kingston Nv2 Nvme 2280 3500mbps Snv2s",
+        "preco": "R$ 499,90",
+        "link": "https://www.kabum.com.br/produto/594176/ssd-m-2-1tb-kingston-nv2-nvme-2280-3500mbps-snv2s"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/110714/ssd-sata-adata-su650-960gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-960gt-r_1724167818_m.jpg",
+        "nome": "SSD SATA Adata SU650, 960GB, 2.5\", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-960GT-R",
+        "preco": "R$ 439,99",
+        "link": "https://www.kabum.com.br/produto/110714/ssd-sata-adata-su650-960gb-2-5-leitura-520mb-s-e-gravacao-450mb-s-preto-asu650ss-960gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/495572/ssd-500gb-wd-blue-sn580-nvme-m-2-pcle-gen4-leitura-4000-e-gravacao-3600-wds500g3b0e_1706533279_m.jpg",
+        "nome": "SSD 500GB WD Blue SN580 NVMe, M.2 PCle, Gen4, Leitura 4000 e Gravação 3600 - WDS500G3B0E",
+        "preco": "R$ 399,99",
+        "link": "https://www.kabum.com.br/produto/495572/ssd-500gb-wd-blue-sn580-nvme-m-2-pcle-gen4-leitura-4000-e-gravacao-3600-wds500g3b0e"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/593423/ssd-sata-adata-256gb-leitura-540mb-s-e-gravacao-450mb-s-preto-asu650ss-256gt-r_1722621687_m.jpg",
+        "nome": "SSD SATA ADATA, 256GB, Leitura: 540MB/s e Gravação: 450MB/s, Preto - ASU650SS-256GT-R",
+        "preco": "R$ 129,99",
+        "link": "https://www.kabum.com.br/produto/593423/ssd-sata-adata-256gb-leitura-540mb-s-e-gravacao-450mb-s-preto-asu650ss-256gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/542150/ssd-corsair-1tb-mp600-elite-m-2-nvme-leitura-7000mb-s-e-gravacao-6200mb-s-para-ps5-branco-cssd-f1000gbmp600ecs_1720011581_m.jpg",
+        "nome": "SSD Corsair 1TB MP600 Elite, M.2 NVMe, Leitura 7000MB/s e Gravação 6200MB/s, Para PS5, Branco - CSSD-F1000GBMP600ECS",
+        "preco": "R$ 678,99",
+        "link": "https://www.kabum.com.br/produto/542150/ssd-corsair-1tb-mp600-elite-m-2-nvme-leitura-7000mb-s-e-gravacao-6200mb-s-para-ps5-branco-cssd-f1000gbmp600ecs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/551012/ssd-lexar-internal-nq100-1920gb-sata-leitura-550mb-s-cinza-lnq100x1920-rnnnu_1716813676_m.jpg",
+        "nome": "SSD SATA Lexar Internal NQ100, 1920GB, 2.5\", Leitura 550MB/s, Cinza - LNQ100X1920-RNNNU",
+        "preco": "R$ 769,99",
+        "link": "https://www.kabum.com.br/produto/551012/ssd-sata-lexar-internal-nq100-1920gb-2-5-leitura-550mb-s-cinza-lnq100x1920-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/311953/ssd-wd-black-sn770-500gb-m-2-pcie-gen4x4-nvme-leitura-5000mb-s-gravacao-4000mb-s-wds500g3x0e_1645633087_m.jpg",
+        "nome": "SSD 500 GB WD Black SN770, M.2, PCIe Gen4x4, NVMe, Leitura: 5000MB/s e Gravação: 4000MB/s - WDS500G3X0E",
+        "preco": "R$ 479,99",
+        "link": "https://www.kabum.com.br/produto/311953/ssd-500-gb-wd-black-sn770-m-2-pcie-gen4x4-nvme-leitura-5000mb-s-e-gravacao-4000mb-s-wds500g3x0e"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/379757/ssd-wd-black-sn850x-gaming-storage-2tb-m-2-2280-pcie-gen4x4-nvme-leitura-7300-mb-s-e-gravacao-6600-mb-s-preto-wds200t2x0e_1666794724_m.jpg",
+        "nome": "SSD WD Black SN850X Gaming Storage 2TB, M.2 2280 PCIe GEN4X4, NVMe, Leitura: 7300 MB/s e Gravação: 6600 MB/s, Preto - WDS200T2X0E",
+        "preco": "R$ 1.556,99",
+        "link": "https://www.kabum.com.br/produto/379757/ssd-wd-black-sn850x-gaming-storage-2tb-m-2-2280-pcie-gen4x4-nvme-leitura-7300-mb-s-e-gravacao-6600-mb-s-preto-wds200t2x0e"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/459937/ssd-kingston-1920-gb-dc600m-mixed-use-sata-2-5-leitura-560mb-s-e-gravacao-530mb-s-sedc600m-1920g_1686054124_m.jpg",
+        "nome": "SSD Kingston DC600M Mixed-Use, 1.92 TB, SATA III, 2.5\", Leitura: 560 MB/s, Gravação: 530 MB/s, Preto, para Servidor - SEDC600M/1920G",
+        "preco": "R$ 2.333,99",
+        "link": "https://www.kabum.com.br/produto/459937/ssd-kingston-dc600m-mixed-use-1-92-tb-sata-iii-2-5-leitura-560-mb-s-gravacao-530-mb-s-preto-para-servidor-sedc600m-1920g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/429826/ssd-adata-500gb-legend-850-lite-pcie-gen-4x4-m-2-2280-leitura-5000-mb-s-e-gravacao-1700mb-s-cinza-aleg-850l-500gcs_1684332846_m.jpg",
+        "nome": "SSD Adata 500GB Legend 850 Lite, PCIe Gen 4x4 M.2 2280, Leitura: 5000 MB/s e Gravação: 1700MB/s, Cinza - ALEG-850L-500GCS",
+        "preco": "R$ 289,99",
+        "link": "https://www.kabum.com.br/produto/429826/ssd-adata-500gb-legend-850-lite-pcie-gen-4x4-m-2-2280-leitura-5000-mb-s-e-gravacao-1700mb-s-cinza-aleg-850l-500gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/528739/ssd-externo-lexar-2tb-sl200-usb-3-1-leitura-550mb-s-gravacao-and-400mb-s-lsl200x002t-rnnnu_1713881409_m.jpg",
+        "nome": "SSD Externo Lexar 2TB SL200, USB 3.1, Leitura 550MB/s Gravação and 400MB/s - LSL200X002T-RNNNU",
+        "preco": "R$ 849,99",
+        "link": "https://www.kabum.com.br/produto/528739/ssd-externo-lexar-2tb-sl200-usb-3-1-leitura-550mb-s-gravacao-and-400mb-s-lsl200x002t-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/597846/ssd-lexar-2tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-compativel-com-ps5-lnm790x002t-rnnnu_1730143417_m.jpg",
+        "nome": "SSD Lexar 2TB, NM790, M.2 2280, PCIe NVMe, Leitura 7400 MB/s, Gravação 6500 MB/s, compatível com PS5 - LNM790X002T-RNNNU",
+        "preco": "R$ 999,99",
+        "link": "https://www.kabum.com.br/produto/597846/ssd-lexar-2tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-compativel-com-ps5-lnm790x002t-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/129776/ssd-portatil-sandisk-extreme-2tb-usb-3-1-sdssde61-2t00-g25_1603114030_m.jpg",
+        "nome": "SSD Externo Portátil SanDisk Extreme, 2TB, USB 3.1, Leitura: 1050 MB/s e Gravação: 1000 MB/s, Preto e Laranja - SDSSDE61-2T00-G25",
+        "preco": "R$ 1.179,99",
+        "link": "https://www.kabum.com.br/produto/129776/ssd-externo-portatil-sandisk-extreme-2tb-usb-3-1-leitura-1050-mb-s-e-gravacao-1000-mb-s-preto-e-laranja-sdssde61-2t00-g25"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/80632/80632_index_m.jpg",
+        "nome": "SSD SATA Sandisk, 240GB, 2.5\" Leitura: 530MB/s e Gravação: 440MB/s Preto - SDSSDA-240G-G26",
+        "preco": "R$ 199,99",
+        "link": "https://www.kabum.com.br/produto/80632/ssd-sata-sandisk-240gb-2-5-leitura-530mb-s-e-gravacao-440mb-s-preto-sdssda-240g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514253/ssd-rise-mode-gamer-z-series-128gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-128_1708630187_m.jpg",
+        "nome": "SSD Rise Mode Gamer Z Series 128GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-128",
+        "preco": "R$ 89,99",
+        "link": "https://www.kabum.com.br/produto/514253/ssd-rise-mode-gamer-z-series-128gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-128"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/485003/ssd-gigabyte-aorus-gen4-5000e-500gb-pci-express-4-0x4-nvme-1-4-leitura-5000mb-s-e-gravacao-3800mb-s-ag450e500g-g_1699535372_m.jpg",
+        "nome": "SSD Gigabyte AORUS Gen4 5000E 500GB, PCI Express 4.0x4, NVMe 1.4, Leitura:5000MB/s e Gravação:3800MB/s - AG450E500G-G",
+        "preco": "R$ 399,99",
+        "link": "https://www.kabum.com.br/produto/485003/ssd-gigabyte-aorus-gen4-5000e-500gb-pci-express-4-0x4-nvme-1-4-leitura-5000mb-s-e-gravacao-3800mb-s-ag450e500g-g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/377491/SSD-480GB-Western-Digital-Green-SATA-3-2-5-Pol-Leitura-545-MBps-E-Grava-o-430MBps-Wds480g3g0a_1730148697_m.jpg",
+        "nome": "SSD 480GB Western Digital Green, SATA 3 2.5 Pol, Leitura 545 MBps E Gravação 430MBps - Wds480g3g0a",
+        "preco": "R$ 248,95",
+        "link": "https://www.kabum.com.br/produto/377491/ssd-480gb-western-digital-green-sata-3-2-5-pol-leitura-545-mbps-e-gravacao-430mbps-wds480g3g0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/631108/SSD-Primetek-SPK300-480GB-SATA-III-Leitura-520MB-s-Grava-o-470MB-s_1725976817_m.jpg",
+        "nome": "SSD Primetek SPK300 480GB, SATA III, Leitura 520MB/s, Gravação 470MB/s",
+        "preco": "R$ 189,90",
+        "link": "https://www.kabum.com.br/produto/631108/ssd-primetek-spk300-480gb-sata-iii-leitura-520mb-s-gravacao-470mb-s"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/272354/ssd-kingston-kc3000-4096gb-m-2-2280-pcie-nvme-leituras-7-000mb-s-gravacao-7-000mb-s-skc3000d-4096g_1637325371_m.jpg",
+        "nome": "SSD Kingston KC3000, 4 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7000 MB/s, Gravação: 7000 MB/s, Preto - SKC3000D/4096G",
+        "preco": "R$ 2.989,99",
+        "link": "https://www.kabum.com.br/produto/272354/ssd-kingston-kc3000-4-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7000-mb-s-gravacao-7000-mb-s-preto-skc3000d-4096g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/453594/ssd-kingston-nv2-4tb-m-2-2280-pcie-4-0-nvme-gen-4x4-leitura-3500-mb-s-e-gravacao-2800-mb-s-snv2s-4000g_1683120995_m.jpg",
+        "nome": "SSD Kingston NV2, 4TB, M.2 2280 PCIe 4.0, NVMe Gen 4x4, Leitura: 3500 MB/s e Gravação: 2800 MB/s - SNV2S/4000G",
+        "preco": "R$ 1.699,99",
+        "link": "https://www.kabum.com.br/produto/453594/ssd-kingston-nv2-4tb-m-2-2280-pcie-4-0-nvme-gen-4x4-leitura-3500-mb-s-e-gravacao-2800-mb-s-snv2s-4000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/429827/ssd-adata-1tb-legend-850-lite-pcie-gen-4x4-m-2-2280-leitura-5-000mb-s-e-gravacao-3-200mb-s-cinza-aleg-850l-1000gcs_1684333049_m.jpg",
+        "nome": "SSD ADATA 1TB, Legend 850 Lite, PCIe Gen 4x4, M.2 2280, Leitura: 5.000MB/s e Gravação:3.200MB/s, Cinza - ALEG-850L-1000GCS",
+        "preco": "R$ 589,99",
+        "link": "https://www.kabum.com.br/produto/429827/ssd-adata-1tb-legend-850-lite-pcie-gen-4x4-m-2-2280-leitura-5-000mb-s-e-gravacao-3-200mb-s-cinza-aleg-850l-1000gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/400209/Ssd-2TB-Kingston-Nv2-M-2-2280-Nvme-Pcie-4-0-X4-Leitura-3500MB-s-Grava-o-2800MB-s-Snv2s-2000g_1732196690_m.jpg",
+        "nome": "Ssd 2TB Kingston Nv2, M.2 2280, Nvme Pcie 4.0 X4, Leitura 3500MB/s, Gravação 2800MB/s - Snv2s/2000g",
+        "preco": "R$ 819,99",
+        "link": "https://www.kabum.com.br/produto/400209/ssd-2tb-kingston-nv2-m-2-2280-nvme-pcie-4-0-x4-leitura-3500mb-s-gravacao-2800mb-s-snv2s-2000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514255/ssd-rise-mode-gamer-z-series-512gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-512_1708632326_m.jpg",
+        "nome": "SSD Rise Mode Gamer Z Series 512GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-512",
+        "preco": "R$ 278,99",
+        "link": "https://www.kabum.com.br/produto/514255/ssd-rise-mode-gamer-z-series-512gb-sata-leitura-535mb-s-e-gravacao-435mb-s-rm-ssd-512"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/593425/ssd-sata-adata-2tb-leitura-540mb-s-e-gravacao-450mb-s-preto-asu650ss-2tt-r_1721929501_m.jpg",
+        "nome": "SSD SATA ADATA, 2TB, Leitura: 540MB/s e Gravação: 450MB/s, Preto - ASU650SS-2TT-R",
+        "preco": "R$ 1.000,99",
+        "link": "https://www.kabum.com.br/produto/593425/ssd-sata-adata-2tb-leitura-540mb-s-e-gravacao-450mb-s-preto-asu650ss-2tt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/454660/ssd-1tb-corsair-mp600-pro-lpx-pcie-gen-4-0-x4-nvme-m-2-leitura-7100mb-s-e-gravacao-5800mb-s-branco-cssd-f1000gbmp600plpw_1688138163_m.jpg",
+        "nome": "SSD 1TB Corsair MP600 PRO LPX, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 7100MB/s e Gravação: 5800MB/s, Branco - CSSD-F1000GBMP600PLPW",
+        "preco": "R$ 789,99",
+        "link": "https://www.kabum.com.br/produto/454660/ssd-1tb-corsair-mp600-pro-lpx-pcie-gen-4-0-x4-nvme-m-2-leitura-7100mb-s-e-gravacao-5800mb-s-branco-cssd-f1000gbmp600plpw"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/300284/SSD-XPG-S70-Blade-2TB-M-2-NVME-PCIE-GEN4x4-Leitura-7400mb-s-E-Grava-o-6400mb-s-3d-Nand-AGAMMIXS70B-2T-CS_1729359362_m.jpg",
+        "nome": "SSD, XPG S70 Blade 2TB, M.2 NVME, PCIE GEN4x4, Leitura: 7400mb/s E Gravação: 6400mb/s, 3d Nand - AGAMMIXS70B-2T-CS",
+        "preco": "R$ 1.397,34",
+        "link": "https://www.kabum.com.br/produto/300284/ssd-xpg-s70-blade-2tb-m-2-nvme-pcie-gen4x4-leitura-7400mb-s-e-gravacao-6400mb-s-3d-nand-agammixs70b-2t-cs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/351527/ssd-wd-blue-1t-sata-leitura-560mb-s-gravacao-520mb-s-wds100t3b0a_1657308987_m.jpg",
+        "nome": "SSD SATA WD Blue, 1TB, 2.5\", Leitura: 560MB/s e Gravação: 520MB/s, Preto - WDS100T3B0A",
+        "preco": "R$ 599,99",
+        "link": "https://www.kabum.com.br/produto/351527/ssd-sata-wd-blue-1tb-2-5-leitura-560mb-s-e-gravacao-520mb-s-preto-wds100t3b0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/158858/SSD-SATA-Kingston-A400-960GB-Leitura-500MB-s-E-Grava-o-450MB-s-Preto_1732189248_m.jpg",
+        "nome": "SSD SATA Kingston A400 960GB, Leitura 500MB/s E Gravação 450MB/s, Preto",
+        "preco": "R$ 359,99",
+        "link": "https://www.kabum.com.br/produto/158858/ssd-sata-kingston-a400-960gb-leitura-500mb-s-e-gravacao-450mb-s-preto"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/100020/100020_1548789657_index_m.jpg",
+        "nome": "SSD 1 TB Adata XPG SX6000, M.2 NVMe, Leitura: 2100MB/s e Gravação: 1500MB/s - ASX6000PNP-1TT-C",
+        "preco": "R$ 479,99",
+        "link": "https://www.kabum.com.br/produto/100020/ssd-1-tb-adata-xpg-sx6000-m-2-nvme-leitura-2100mb-s-e-gravacao-1500mb-s-asx6000pnp-1tt-c"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/454658/ssd-2tb-corsair-mp600-pro-lpx-pcie-gen-4-0-x4-nvme-m-2-leitura-7100mb-s-e-gravacao-6800mb-s-branco-cssd-f2000gbmp600plpw_1688136680_m.jpg",
+        "nome": "SSD 2TB Corsair MP600 PRO LPX, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 7100MB/s e Gravação: 6800MB/s, Branco - CSSD-F2000GBMP600PLPW",
+        "preco": "R$ 1.622,99",
+        "link": "https://www.kabum.com.br/produto/454658/ssd-2tb-corsair-mp600-pro-lpx-pcie-gen-4-0-x4-nvme-m-2-leitura-7100mb-s-e-gravacao-6800mb-s-branco-cssd-f2000gbmp600plpw"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514468/cartao-de-expansao-wd-black-1tb-c50-for-xbo-wdbmph0010bnc-wcsn_1711396779_m.jpg",
+        "nome": "SSD 1TB WD BLACK C50 para Xbox, WDBMPH0010BNC-WCSN",
+        "preco": "R$ 2.000,99",
+        "link": "https://www.kabum.com.br/produto/514468/ssd-1tb-wd-black-c50-para-xbox-wdbmph0010bnc-wcsn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/502222/ssd-500gb-sandisk-extreme-m-2-pcle-nvme-leitura-5000mb-s-e-gravacao-acima-de-4000mb-s-sdssdx3n-500g-g26_1704827047_m.jpg",
+        "nome": "SSD 500GB SanDisk Extreme, M.2 PCle, NVMe, Leitura 5000MB/s e Gravação acima de 4000MB/s - SDSSDX3N-500G-G26",
+        "preco": "R$ 459,99",
+        "link": "https://www.kabum.com.br/produto/502222/ssd-500gb-sandisk-extreme-m-2-pcle-nvme-leitura-5000mb-s-e-gravacao-acima-de-4000mb-s-sdssdx3n-500g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/115140/ssd-externo-adata-256gb-usb-3-2-gen-2-com-type-c-leitura-de-ate-1000mb-s-cinza-ase760-256gu32g2-cti_1594228328_m.jpg",
+        "nome": "SSD Externo 256 GB Adata, USB 3.2 Gen 2 com Type C, Leitura: 1000MB/s, Cinza - ASE760-256GU32G2-CTI",
+        "preco": "R$ 289,99",
+        "link": "https://www.kabum.com.br/produto/115140/ssd-externo-256-gb-adata-usb-3-2-gen-2-com-type-c-leitura-1000mb-s-cinza-ase760-256gu32g2-cti"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/174032/SSD-Kingston-480GB-A400-SATA-Leitura-500MB-s-e-Grava-o-450MB-s-SA400S37-480G_1730151781_m.jpg",
+        "nome": "SSD Kingston 480GB A400, SATA, Leitura 500MB/s e Gravação 450MB/s - SA400S37/480G",
+        "preco": "R$ 248,90",
+        "link": "https://www.kabum.com.br/produto/174032/ssd-kingston-480gb-a400-sata-leitura-500mb-s-e-gravacao-450mb-s-sa400s37-480g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/167492/SSD-Crucial-Bx500-1TB-Sata-6GB-s-2-5-Leitura-540-MB-s-Escrita-500-MB-s-Preto-Ct1000bx500ssd1_1730149872_m.jpg",
+        "nome": "SSD Crucial Bx500 1TB, Sata 6GB/s 2.5, Leitura 540 MB/s, Escrita 500 MB/s, Preto - Ct1000bx500ssd1",
+        "preco": "R$ 409,90",
+        "link": "https://www.kabum.com.br/produto/167492/ssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/582015/SSD-256gb-Lexar-Nm620-M-2-2280-PCie-3-0-Nvme-Leitura-3500mb-s-Grav-1300mb-s-Lnm620x256g-rnnnu_1715601596_m.jpg",
+        "nome": "SSD 256gb Lexar Nm620, M.2 2280 PCie 3.0 Nvme, Leitura 3500mb/s, Grav. 1300mb/s - Lnm620x256g-rnnnu",
+        "preco": "R$ 180,27",
+        "link": "https://www.kabum.com.br/produto/582015/ssd-256gb-lexar-nm620-m-2-2280-pcie-3-0-nvme-leitura-3500mb-s-grav-1300mb-s-lnm620x256g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/291058/SSD-Western-Digital-Green-2TB-2-5-SATA-III-545MB-s-WDS200T2G0A_1732195373_m.jpg",
+        "nome": "SSD Western Digital Green, 2TB, 2.5\" SATA III, 545MB/s - WDS200T2G0A",
+        "preco": "R$ 729,99",
+        "link": "https://www.kabum.com.br/produto/291058/ssd-western-digital-green-2tb-2-5-sata-iii-545mb-s-wds200t2g0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/191346/SSD-Western-Digital-480GB-Leitura-545MB-s-E-Grava-o-430MB-s-2-5p-SATA-3-Wds480g2g0a_1727872084_m.jpg",
+        "nome": "SSD Western Digital 480GB, Leitura 545MB/s E Gravação 430MB/s, 2.5p, SATA 3 - Wds480g2g0a",
+        "preco": "R$ 252,61",
+        "link": "https://www.kabum.com.br/produto/191346/ssd-western-digital-480gb-leitura-545mb-s-e-gravacao-430mb-s-2-5p-sata-3-wds480g2g0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/542161/ssd-corsair-1tb-mp600-mini-m-2-nvme-leitura-4800mb-s-e-gravacao-4800mb-s-cssd-f1000gbmp600mn_1720015190_m.jpg",
+        "nome": "SSD Corsair 1TB MP600 Mini, M.2 NVMe, Leitura 4800MB/s e Gravação 4800MB/s - CSSD-F1000GBMP600MN",
+        "preco": "R$ 749,99",
+        "link": "https://www.kabum.com.br/produto/542161/ssd-corsair-1tb-mp600-mini-m-2-nvme-leitura-4800mb-s-e-gravacao-4800mb-s-cssd-f1000gbmp600mn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/514467/cartao-de-expansao-wd-black-512gb-c50-for-xbox-wdbmph5120anc-wcsn_1712936301_m.jpg",
+        "nome": "SSD 512 GB WD BLACK C50 para Xbox , WDBMPH5120ANC-WCSN",
+        "preco": "R$ 729,99",
+        "link": "https://www.kabum.com.br/produto/514467/ssd-512-gb-wd-black-c50-para-xbox-wdbmph5120anc-wcsn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/391588/SSD-M-2-Kingston-Fury-Renegade-Gen4-1Tb-Pcie-4-7300mbs_1730148869_m.jpg",
+        "nome": "SSD M.2 Kingston Fury Renegade Gen4, 1Tb, Pcie 4, 7300mbs",
+        "preco": "R$ 1.078,99",
+        "link": "https://www.kabum.com.br/produto/391588/ssd-m-2-kingston-fury-renegade-gen4-1tb-pcie-4-7300mbs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/332900/kingston-ssd-portatil-xs2000-2tb-usb-3-2-leitura-e-gravacao-de-ate-2000mb-s-sxs2000-2000g_1652117962_m.jpg",
+        "nome": "SSD Externo Kingston XS2000, 2 TB, USB 3.2 Gen 2x2, Portátil, Leitura: 2000 MB/s, Gravação: 2000 MB/s, Prata - SXS2000/2000G",
+        "preco": "R$ 1.249,99",
+        "link": "https://www.kabum.com.br/produto/332900/ssd-externo-kingston-xs2000-2-tb-usb-3-2-gen-2x2-portatil-leitura-2000-mb-s-gravacao-2000-mb-s-prata-sxs2000-2000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/534687/ssd-externo-portatil-sandisk-2tb-usb-leitura-800mb-s-preto-e-laranja-sdssde30-2t00-g26_1716569598_m.jpg",
+        "nome": "SSD Externo Portátil Sandisk, 2TB, USB, Leitura: 800MB/s, Preto e Laranja - SDSSDE30-2T00-G26",
+        "preco": "R$ 999,99",
+        "link": "https://www.kabum.com.br/produto/534687/ssd-externo-portatil-sandisk-2tb-usb-leitura-800mb-s-preto-e-laranja-sdssde30-2t00-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/542142/ssd-corsair-2tb-mp700-pro-m-2-nvme-leitura-12400mb-s-e-gravacao-11800mb-s-cssd-f2000gbmp700pro_1719855455_m.jpg",
+        "nome": "SSD Corsair 2TB MP700 Pro, M.2 NVMe, Leitura 12400MB/s e Gravação 11800MB/s - CSSD-F2000GBMP700PRO",
+        "preco": "R$ 2.667,99",
+        "link": "https://www.kabum.com.br/produto/542142/ssd-corsair-2tb-mp700-pro-m-2-nvme-leitura-12400mb-s-e-gravacao-11800mb-s-cssd-f2000gbmp700pro"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/514139/SSD-Kingston-480GB-Dc600m-Para-Data-Center-2-5p-SATA-III-6GB-s-Sedc600m-480g_1728914599_m.jpg",
+        "nome": "SSD Kingston 480GB Dc600m, Para Data Center, 2.5p, SATA III 6GB/s - Sedc600m/480g",
+        "preco": "R$ 915,84",
+        "link": "https://www.kabum.com.br/produto/514139/ssd-kingston-480gb-dc600m-para-data-center-2-5p-sata-iii-6gb-s-sedc600m-480g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/268537/ssd-wd-red-sn700-500gb-m-2-2280-nvme-leituras-3430mb-s-gravacao-2600mb-s-vermelho-wds500g1r0c_1637325510_m.jpg",
+        "nome": "SSD 500 GB WD Red SN700, M.2 2280, NVMe, Leitura: 3400MB/s e Gravação: 2600MB/s, Vermelho - WDS500G1R0C",
+        "preco": "R$ 744,99",
+        "link": "https://www.kabum.com.br/produto/268537/ssd-500-gb-wd-red-sn700-m-2-2280-nvme-leitura-3400mb-s-e-gravacao-2600mb-s-vermelho-wds500g1r0c"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/165671/ssd-externo-portatil-sandisk-480gb-usb-leitura-520mb-s-sdssde30-480g-g25_1626697633_m.jpg",
+        "nome": "SSD Externo Portátil Sandisk, 480GB, USB, Leitura: 520MB/s, Preto e Laranja - SDSSDE30-480G-G25",
+        "preco": "R$ 519,99",
+        "link": "https://www.kabum.com.br/produto/165671/ssd-externo-portatil-sandisk-480gb-usb-leitura-520mb-s-preto-e-laranja-sdssde30-480g-g25"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/621163/ssd-pcie-kingston-nv3-2-tb-m-2-2280-nvme-leitura-6000-mb-s-e-gravacao-5000-mb-s-snv3s-2000g_1726079083_m.jpg",
+        "nome": "SSD Kingston NV3, 2 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 6000 MB/s, Gravação: 5000 MB/s, Azul - SNV3S/2000G",
+        "preco": "R$ 999,99",
+        "link": "https://www.kabum.com.br/produto/621163/ssd-kingston-nv3-2-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-6000-mb-s-gravacao-5000-mb-s-azul-snv3s-2000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/351525/ssd-wd-blue-250gb-sata-leitura-555mb-s-gravacao-440mb-s-wds250g3b0a_1657308543_m.jpg",
+        "nome": "SSD SATA WD Blue, 250GB, 2.5\", Leitura: 555MB/s e Gravação: 440MB/s, Preto - WDS250G3B0A",
+        "preco": "R$ 249,99",
+        "link": "https://www.kabum.com.br/produto/351525/ssd-sata-wd-blue-250gb-2-5-leitura-555mb-s-e-gravacao-440mb-s-preto-wds250g3b0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/222616/SSD-Colorful-SL500-SATA-III-240GB-Leitura-500-MB-S-Grava-o-430-MB-S_1729199819_m.jpg",
+        "nome": "SSD Colorful SL500, SATA III, 240GB, Leitura 500 MB/S, Gravação 430 MB/S",
+        "preco": "R$ 177,00",
+        "link": "https://www.kabum.com.br/produto/222616/ssd-colorful-sl500-sata-iii-240gb-leitura-500-mb-s-gravacao-430-mb-s"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/272358/ssd-kingston-fury-renegade-4000gb-m-2-2280-pcie-nvme-leituras-7-300mb-s-gravacao-7-000mb-s-sfyrd-4000g_1637329666_m.jpg",
+        "nome": "SSD Kingston Fury Renegade, 4 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 7000 MB/s, Compatível com PS5 - SFYRD/4000G",
+        "preco": "R$ 2.699,99",
+        "link": "https://www.kabum.com.br/produto/272358/ssd-kingston-fury-renegade-4-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-7000-mb-s-compativel-com-ps5-sfyrd-4000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/506091/ssd-wd-black-500gb-sn770m-m-2-2230-nvm-wds500g3x0g-00chy0_1708002077_m.jpg",
+        "nome": "SSD WD Black 500GB SN770M, M.2 2230 NVM, Leitura: 5000MB/s, Gravação: 4000MB/s - WDS500G3X0G-00CHY0",
+        "preco": "R$ 556,99",
+        "link": "https://www.kabum.com.br/produto/506091/ssd-wd-black-500gb-sn770m-m-2-2230-nvm-leitura-5000mb-s-gravacao-4000mb-s-wds500g3x0g-00chy0"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/153423/Case-F3-Adaptador-de-SSD-M-2-Para-SATA-3-2-5-Polegadas-CS-M2-02_1728530157_m.jpg",
+        "nome": "Case F3 Adaptador de SSD M.2, Para SATA 3, 2.5 Polegadas - CS-M2-02",
+        "preco": "R$ 43,00",
+        "link": "https://www.kabum.com.br/produto/153423/case-f3-adaptador-de-ssd-m-2-para-sata-3-2-5-polegadas-cs-m2-02"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/613831/Hd-SSD-Kingston-480GB-A400-Sata3-2-5-7mm-Sa400s37-480g_1720614699_m.jpg",
+        "nome": "Hd SSD Kingston 480GB A400 Sata3 2,5 7mm - Sa400s37/480g",
+        "preco": "R$ 299,99",
+        "link": "https://www.kabum.com.br/produto/613831/hd-ssd-kingston-480gb-a400-sata3-2-5-7mm-sa400s37-480g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/597850/ssd-lexar-4tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-com-dissipador-de-calor-compativel-com-ps5-lnm790x004t-rn9nu_1730144885_m.jpg",
+        "nome": "SSD Lexar 4TB, NM790, M.2 2280, PCIe NVMe, Leitura 7400 MB/s, Gravação 6500 MB/s, com dissipador de calor, compatível com PS5 - LNM790X004T-RN9NU",
+        "preco": "R$ 2.199,99",
+        "link": "https://www.kabum.com.br/produto/597850/ssd-lexar-4tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-com-dissipador-de-calor-compativel-com-ps5-lnm790x004t-rn9nu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/597845/ssd-lexar-1tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-lnm790x001t-rnnnu_1730143249_m.jpg",
+        "nome": "SSD Lexar 1TB, NM790, M.2 2280, PCIe NVMe, Leitura 7400 MB/s, Gravação 6500 MB/s - LNM790X001T-RNNNU",
+        "preco": "R$ 639,99",
+        "link": "https://www.kabum.com.br/produto/597845/ssd-lexar-1tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-lnm790x001t-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/542162/ssd-corsair-1tb-mp600-core-mini-m-2-nvme-leitura-5000mb-s-e-gravacao-3800mb-s-cssd-f1000gbmp600cmn_1720206605_m.jpg",
+        "nome": "SSD Corsair 1TB MP600 Core Mini, M.2 NVMe, Leitura 5000MB/s e Gravação 3800MB/s - CSSD-F1000GBMP600CMN",
+        "preco": "R$ 619,99",
+        "link": "https://www.kabum.com.br/produto/542162/ssd-corsair-1tb-mp600-core-mini-m-2-nvme-leitura-5000mb-s-e-gravacao-3800mb-s-cssd-f1000gbmp600cmn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/478456/ssd-externo-portatil-sandisk-extreme-1tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-azul-sdssde61-1t00-g25b_1700064889_m.jpg",
+        "nome": "SSD Externo Portátil SanDisk Extreme 1TB, USB, Leitura: 1050 MB/s e Gravação: 1000 MB/s, Azul - SDSSDE61-1T00-G25B",
+        "preco": "R$ 859,99",
+        "link": "https://www.kabum.com.br/produto/478456/ssd-externo-portatil-sandisk-extreme-1tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-azul-sdssde61-1t00-g25b"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/212496/SSD-480GB-Sandisk-Sata-III-2-5-Leitura-535-MB-s-E-Grava-o-445-MB-s-Sdssda-480g-G26_1730148105_m.jpg",
+        "nome": "SSD 480GB Sandisk Sata III 2.5, Leitura 535 MB/s E Gravação 445 MB/s - Sdssda-480g-G26",
+        "preco": "R$ 209,99",
+        "link": "https://www.kabum.com.br/produto/212496/ssd-480gb-sandisk-sata-iii-2-5-leitura-535-mb-s-e-gravacao-445-mb-s-sdssda-480g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/615120/Hd-SSD-240GB-Sata-Iii-Prodrive-Garantia-90-Dias_1729282625_m.jpg",
+        "nome": "Hd SSD 240GB Sata Iii Prodrive Garantia 90 Dias",
+        "preco": "R$ 129,90",
+        "link": "https://www.kabum.com.br/produto/615120/hd-ssd-240gb-sata-iii-prodrive-garantia-90-dias"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/353458/Dissipador-Ctech-Para-SSD-M2-NVME-NGFF-2280mm-6mm-Alum-nio-Thermalpad-PC-Notebook-e-PS5-Preto_1676785731_m.jpg",
+        "nome": "Dissipador Ctech Para SSD M2 NVME, NGFF, 2280mm, 6mm, Alumínio, Thermalpad, PC, Notebook e PS5, Preto",
+        "preco": "R$ 35,91",
+        "link": "https://www.kabum.com.br/produto/353458/dissipador-ctech-para-ssd-m2-nvme-ngff-2280mm-6mm-aluminio-thermalpad-pc-notebook-e-ps5-preto"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/624494/Case-SSD-Infokit-Adaptador-Sata-PCi-M2-Nvme-Nv1-Nv2-Usb-3-1-Type-c-10gb_1729804223_m.jpg",
+        "nome": "Case SSD Infokit Adaptador Sata PCi M2 Nvme Nv1 Nv2 Usb 3.1 Type-c 10gb",
+        "preco": "R$ 86,50",
+        "link": "https://www.kabum.com.br/produto/624494/case-ssd-infokit-adaptador-sata-pci-m2-nvme-nv1-nv2-usb-3-1-type-c-10gb"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/194933/Ssd-Ntc-240gb-Sata-Lll-2-5-polegadas_1727275568_m.jpg",
+        "nome": "Ssd Ntc 240gb Sata Lll 2,5 polegadas",
+        "preco": "R$ 111,27",
+        "link": "https://www.kabum.com.br/produto/194933/ssd-ntc-240gb-sata-lll-2-5-polegadas"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/391561/SSD-Sata-III-500GB-Bx500-Leitura-550-MB-s-Grava-o-500-MB-s-Ct500bx500ssd1_1730147650_m.jpg",
+        "nome": "SSD Sata III 500GB Bx500, Leitura 550 MB/s, Gravação 500 MB/s- Ct500bx500ssd1",
+        "preco": "R$ 233,44",
+        "link": "https://www.kabum.com.br/produto/391561/ssd-sata-iii-500gb-bx500-leitura-550-mb-s-gravacao-500-mb-s-ct500bx500ssd1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/645467/SSD-Adata-120-Gb-Sata-6gb-s-Leitura-520-Mb-s-Grava-o-450-Mb-s-Asu650ss-120gt-r_1729088675_m.jpg",
+        "nome": "SSD Adata 120 Gb Sata 6gb/s Leitura 520 Mb/s Gravação 450 Mb/s Asu650ss-120gt-r",
+        "preco": "R$ 105,36",
+        "link": "https://www.kabum.com.br/produto/645467/ssd-adata-120-gb-sata-6gb-s-leitura-520-mb-s-gravacao-450-mb-s-asu650ss-120gt-r"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/373623/SSD-Adata-Legend-710-512GB-M-2-2280-PCIe-Gen3-x4-NVMe-1-4-Leitura-2400-Mb-s-E-Grava-o-1600MB-s-Aleg-710-512gcs_1729042562_m.jpg",
+        "nome": "SSD Adata Legend 710, 512GB, M.2 2280 PCIe Gen3 x4 NVMe 1.4, Leitura 2400 Mb/s E Gravação 1600MB/s - Aleg-710-512gcs",
+        "preco": "R$ 311,82",
+        "link": "https://www.kabum.com.br/produto/373623/ssd-adata-legend-710-512gb-m-2-2280-pcie-gen3-x4-nvme-1-4-leitura-2400-mb-s-e-gravacao-1600mb-s-aleg-710-512gcs"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/382070/SSD-Western-Digital-1TB-Green-2-5p-SATA-3-Wds100t3g0a_1728912858_m.jpg",
+        "nome": "SSD Western Digital 1TB Green, 2.5p, SATA 3 - Wds100t3g0a",
+        "preco": "R$ 387,00",
+        "link": "https://www.kabum.com.br/produto/382070/ssd-western-digital-1tb-green-2-5p-sata-3-wds100t3g0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/179971/SSD-NTC-256GB-M-2-2280-SATA-III-NTCKFF6M-2NGFF-256_1680649710_m.jpg",
+        "nome": "SSD NTC 256GB M.2 2280 SATA III - NTCKFF6M.2NGFF-256",
+        "preco": "R$ 122,32",
+        "link": "https://www.kabum.com.br/produto/179971/ssd-ntc-256gb-m-2-2280-sata-iii-ntckff6m-2ngff-256"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/158852/Drive-SSD-Sata3-2-5-Crucial-240GB-CT240BX500SSD1_1731714524_m.jpg",
+        "nome": "Drive SSD Sata3 2.5 Crucial, 240GB - CT240BX500SSD1",
+        "preco": "R$ 144,99",
+        "link": "https://www.kabum.com.br/produto/158852/drive-ssd-sata3-2-5-crucial-240gb-ct240bx500ssd1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/404324/SSD-128GB-Patriot-P300-M-2-2280-Pcie-3x4-Nvme-1-3-Leitura-1600MB-s-Grav-600MB-s-P300p128gm28_1689074893_m.jpg",
+        "nome": "SSD 128GB Patriot P300, M.2 2280 Pcie 3x4 Nvme 1.3, Leitura 1600MB/s, Grav. 600MB/s - P300p128gm28",
+        "preco": "R$ 118,80",
+        "link": "https://www.kabum.com.br/produto/404324/ssd-128gb-patriot-p300-m-2-2280-pcie-3x4-nvme-1-3-leitura-1600mb-s-grav-600mb-s-p300p128gm28"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/248401/SSD-SATA-Crucial-BX500-480GB-Leitura-540-MB-s-Grava-o-500-MB-s-CT480BX500SSD1_1729688164_m.jpg",
+        "nome": "SSD SATA Crucial BX500, 480GB, Leitura 540 MB/s, Gravação 500 MB/s - CT480BX500SSD1",
+        "preco": "R$ 288,00",
+        "link": "https://www.kabum.com.br/produto/248401/ssd-sata-crucial-bx500-480gb-leitura-540-mb-s-gravacao-500-mb-s-ct480bx500ssd1"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/478453/ssd-externo-portatil-sandisk-extreme-1tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-verde-sdssde61-1t00-g25m_1699562706_m.jpg",
+        "nome": "SSD Externo Portátil SanDisk Extreme 1TB, USB, Leitura: 1050 MB/s e Gravação: 1000 MB/s, Verde - SDSSDE61-1T00-G25M",
+        "preco": "R$ 889,99",
+        "link": "https://www.kabum.com.br/produto/478453/ssd-externo-portatil-sandisk-extreme-1tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-verde-sdssde61-1t00-g25m"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/454638/ssd-2tb-corsair-mp600-pro-nh-pcie-gen-4-0-x4-nvme-m-2-leitura-7000mb-s-e-gravacao-5700mb-s-preto-cssd-f2000gbmp600pnh_1688126035_m.jpg",
+        "nome": "SSD 2TB Corsair MP600 PRO NH, PCIe Gen 4.0 x4 NVMe M.2, Leitura: 7000MB/s e Gravação: 5700MB/s, Preto - CSSD-F2000GBMP600PNH",
+        "preco": "R$ 1.349,99",
+        "link": "https://www.kabum.com.br/produto/454638/ssd-2tb-corsair-mp600-pro-nh-pcie-gen-4-0-x4-nvme-m-2-leitura-7000mb-s-e-gravacao-5700mb-s-preto-cssd-f2000gbmp600pnh"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/542130/ssd-corsair-4tb-mp700-pro-m-2-nvme-leitura-12400mb-s-e-gravacao-11800mb-s-cssd-f4000gbmp700pnh_1719854083_m.jpg",
+        "nome": "SSD Corsair 4TB MP700 Pro, M.2 NVMe, Leitura 12400MB/s e Gravação 11800MB/s - CSSD-F4000GBMP700PNH",
+        "preco": "R$ 3.999,99",
+        "link": "https://www.kabum.com.br/produto/542130/ssd-corsair-4tb-mp700-pro-m-2-nvme-leitura-12400mb-s-e-gravacao-11800mb-s-cssd-f4000gbmp700pnh"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/444874/SSD-Crucial-P3-Plus-500GB-M-2-PCIe-NVMe-Leitura-4-700MB-s-Grava-o-1-900MB-s-CT500P3PSSD8_1678982329_m.jpg",
+        "nome": "SSD Crucial, P3 Plus 500GB, M.2 PCIe NVMe, Leitura: 4,700MB/s, Gravação: 1,900MB/s, CT500P3PSSD8",
+        "preco": "R$ 342,47",
+        "link": "https://www.kabum.com.br/produto/444874/ssd-crucial-p3-plus-500gb-m-2-pcie-nvme-leitura-4-700mb-s-gravacao-1-900mb-s-ct500p3pssd8"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/149725/HD-SSD-Patriot-P210-256GB-2-5-Sata-Iii-6gb-s-Leitura-500-Mb-s-Grava-o-400-Mb-s-P210s256g25_1729957618_m.jpg",
+        "nome": "HD SSD Patriot P210 256GB, 2.5\" Sata Iii 6gb/s, Leitura 500 Mb/s, Gravação 400 Mb/s - P210s256g25",
+        "preco": "R$ 149,07",
+        "link": "https://www.kabum.com.br/produto/149725/hd-ssd-patriot-p210-256gb-2-5-sata-iii-6gb-s-leitura-500-mb-s-gravacao-400-mb-s-p210s256g25"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/308344/ssd-corsair-force-mp600-pro-lpx-1tb-m-2-pcie-nvme-leituras-7100mb-s-e-gravacoes-3700-mb-s-cssd-f1000gbmp600plp_1643981790_m.jpg",
+        "nome": "SSD 1 TB Corsair Force MP600 PRO LPX, M.2 PCIe, NVMe, Leitura: 7100MB/s e Gravação: 5800MB/s - CSSD-F1000GBMP600PLP",
+        "preco": "R$ 929,99",
+        "link": "https://www.kabum.com.br/produto/308344/ssd-1-tb-corsair-force-mp600-pro-lpx-m-2-pcie-nvme-leitura-7100mb-s-e-gravacao-5800mb-s-cssd-f1000gbmp600plp"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/387112/SSD-Westerndigital-WD-black-Gen4-500GB-M-2-Leitura-at-5150MB-s-Grava-o-at-4800MB-s-SN770_1730150291_m.jpg",
+        "nome": "SSD Westerndigital WD_black Gen4 500GB, M.2, Leitura até 5150MB/s, Gravação até 4800MB/s - SN770",
+        "preco": "R$ 394,20",
+        "link": "https://www.kabum.com.br/produto/387112/ssd-westerndigital-wd_black-gen4-500gb-m-2-leitura-ate-5150mb-s-gravacao-ate-4800mb-s-sn770"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/385655/Ssd-M-2-Samsung-2tb-980-Pro-_1716501573_m.jpg",
+        "nome": "Ssd M.2 Samsung 2tb 980 Pro.",
+        "preco": "R$ 1.679,34",
+        "link": "https://www.kabum.com.br/produto/385655/ssd-m-2-samsung-2tb-980-pro-"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/353460/Dissipador-Ctech-Para-SSD-M2-NVME-NGFF-2280mm-4mm-Alum-nio-Thermalpad-PC-Notebook-e-PS5-Preto_1705376295_m.jpg",
+        "nome": "Dissipador Ctech Para SSD M2 NVME NGFF, 2280mm, 4mm, Alumínio, Thermalpad, PC, Notebook e PS5, Preto",
+        "preco": "R$ 26,91",
+        "link": "https://www.kabum.com.br/produto/353460/dissipador-ctech-para-ssd-m2-nvme-ngff-2280mm-4mm-aluminio-thermalpad-pc-notebook-e-ps5-preto"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/521710/ssd-externo-adata-2tb-sd810-usb-3-2-1000g-ip68-ate-2-000-mb-s-para-iphone-15-pro-max-android-prata-sd810-2000g-csg_1709820874_m.jpg",
+        "nome": "SSD Externo ADATA 2TB SD810, USB 3.2, 1000G IP68, até 2.000 MB/s, para iPhone 15/Pro/Max, Android, Prata - SD810-2000G-CSG",
+        "preco": "R$ 1.159,99",
+        "link": "https://www.kabum.com.br/produto/521710/ssd-externo-adata-2tb-sd810-usb-3-2-1000g-ip68-ate-2-000-mb-s-para-iphone-15-pro-max-android-prata-sd810-2000g-csg"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/232239/ssd-corsair-force-mp600-pro-xt-4tb-m-2-pcie-nvme-leituras-7100mb-s-e-gravacoes-6800mb-s-cssd-f4000gbmp600pxt_1632339809_m.jpg",
+        "nome": "SSD 4 TB Corsair Force MP600 PRO XT, M.2 PCIe, NVMe, Leitura: 7100MB/s e Gravação: 6800MB/s - CSSD-F4000GBMP600PXT",
+        "preco": "R$ 2.769,99",
+        "link": "https://www.kabum.com.br/produto/232239/ssd-4-tb-corsair-force-mp600-pro-xt-m-2-pcie-nvme-leitura-7100mb-s-e-gravacao-6800mb-s-cssd-f4000gbmp600pxt"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/398537/ssd-kingston-fury-4tb-pcie-4-0-nvme-m-2-leitura-7300mb-s-e-gravacao-7000mb-s-preto-sfyrdk-4000g_1670946198_m.jpg",
+        "nome": "SSD Kingston Fury Renegade, 4 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 3900 MB/s, com Dissipador, Compatível com PS5 - SFYRDK/4000G",
+        "preco": "R$ 3.222,99",
+        "link": "https://www.kabum.com.br/produto/398537/ssd-kingston-fury-renegade-4-tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-3900-mb-s-com-dissipador-compativel-com-ps5-sfyrdk-4000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/107338/ssd-kingston-kc600-256gb-sata-leitura-550mb-s-gravacao-500mb-s-skc600-256g_ssd-kingston-kc600-256gb-sata-leitura-550mb-s-gravacao-500mb-s-skc600-256g_1572354352_m.jpg",
+        "nome": "SSD Kingston KC600, 256 GB, SATA III, 2.5\", Leitura: 550 MB/s, Gravação: 500 MB/s, Preto - SKC600/256G",
+        "preco": "R$ 259,99",
+        "link": "https://www.kabum.com.br/produto/107338/ssd-kingston-kc600-256-gb-sata-iii-2-5-leitura-550-mb-s-gravacao-500-mb-s-preto-skc600-256g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/120017/hd-western-digital-externo-portatil-1tb-usb-cinza-wdbagf0010bgy-wesn_1598904989_m.jpg",
+        "nome": "SSD Externo 1 TB WD My Passaport, USB, Leitura: 1050MB/s e Gravação: 1000MB/s, Cinza - WDBAGF0010BGY-WESN",
+        "preco": "R$ 659,99",
+        "link": "https://www.kabum.com.br/produto/120017/ssd-externo-1-tb-wd-my-passaport-usb-leitura-1050mb-s-e-gravacao-1000mb-s-cinza-wdbagf0010bgy-wesn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/597847/ssd-lexar-4tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-compativel-com-ps5-lnm790x004t-rnnnu_1730143559_m.jpg",
+        "nome": "SSD Lexar 4TB, NM790, M.2 2280, PCIe NVMe, Leitura 7400 MB/s, Gravação 6500 MB/s, compatível com PS5 - LNM790X004T-RNNNU",
+        "preco": "R$ 2.444,99",
+        "link": "https://www.kabum.com.br/produto/597847/ssd-lexar-4tb-nm790-m-2-2280-pcie-nvme-leitura-7400-mb-s-gravacao-6500-mb-s-compativel-com-ps5-lnm790x004t-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/615089/Case-Para-SSD-M-2-Externo-Tipo-C-usb-3-0-Para-Nvme-F3-Cs-adpm-ngff-NVME_1726145675_m.jpg",
+        "nome": "Case Para SSD M.2 Externo Tipo C/usb 3.0 Para Nvme F3 Cs-adpm-ngff/NVME",
+        "preco": "R$ 107,91",
+        "link": "https://www.kabum.com.br/produto/615089/case-para-ssd-m-2-externo-tipo-c-usb-3-0-para-nvme-f3-cs-adpm-ngff-nvme"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/383341/SSD-2TB-2-5-Sata-3-560mb-s-Leit-510mb-s-Grav-Ct2000mx500ssd1-Crucial_1731092508_m.jpg",
+        "nome": "SSD 2TB 2.5 Sata 3 560mb/s Leit - 510mb/s Grav Ct2000mx500ssd1 Crucial",
+        "preco": "R$ 1.216,35",
+        "link": "https://www.kabum.com.br/produto/383341/ssd-2tb-2-5-sata-3-560mb-s-leit-510mb-s-grav-ct2000mx500ssd1-crucial"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/332882/kingston-ssd-portatil-xs2000-500g-usb-3-2-leitura-e-gravacao-de-ate-2000mb-s-sxs2000-500g_1652105321_m.jpg",
+        "nome": "SSD Externo Kingston XS2000, 500 GB, USB 3.2 Gen 2x2, Portátil, Leitura: 2000 MB/s, Gravação: 2000 MB/s, Prata - SXS2000/500G",
+        "preco": "R$ 489,99",
+        "link": "https://www.kabum.com.br/produto/332882/ssd-externo-kingston-xs2000-500-gb-usb-3-2-gen-2x2-portatil-leitura-2000-mb-s-gravacao-2000-mb-s-prata-sxs2000-500g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/617811/Case-SSD-Externo-M2-Nvme-Sata-Tipo-C-Usb-3-1-M-E-B-m-10gbps-Externo_1722364474_m.jpg",
+        "nome": "Case SSD Externo M2 Nvme Sata Tipo C Usb 3.1 M E B+m 10gbps Externo",
+        "preco": "R$ 103,11",
+        "link": "https://www.kabum.com.br/produto/617811/case-ssd-externo-m2-nvme-sata-tipo-c-usb-3-1-m-e-b-m-10gbps-externo"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/478457/ssd-externo-portatil-sandisk-extreme-2tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-azul-sdssde61-2t00-g25b_1700059199_m.jpg",
+        "nome": "SSD Externo Portátil SanDisk Extreme 2TB, USB, Leitura: 1050 MB/s e Gravação: 1000 MB/s, Azul - SDSSDE61-2T00-G25B",
+        "preco": "R$ 1.349,99",
+        "link": "https://www.kabum.com.br/produto/478457/ssd-externo-portatil-sandisk-extreme-2tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-azul-sdssde61-2t00-g25b"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/520059/Dissipador-de-Calor-Coolmoon-para-SSD-M2-Nvme-LED-ARGB-5v-3-Pinos-Alum-nio_1724243511_m.jpg",
+        "nome": "Dissipador de Calor Coolmoon para SSD M2, Nvme, LED, ARGB, 5v, 3 Pinos, Alumínio",
+        "preco": "R$ 64,45",
+        "link": "https://www.kabum.com.br/produto/520059/dissipador-de-calor-coolmoon-para-ssd-m2-nvme-led-argb-5v-3-pinos-aluminio"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/452848/SSD-Wd-Red-500GB-Sa500-Para-Servidores-2-5-Wds500g1r0a_1706555899_m.jpg",
+        "nome": "SSD Wd Red 500GB Sa500 Para Servidores 2.5'' - Wds500g1r0a",
+        "preco": "R$ 671,42",
+        "link": "https://www.kabum.com.br/produto/452848/ssd-wd-red-500gb-sa500-para-servidores-2-5-wds500g1r0a"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/375605/SSD-Kingston-M-2-NVMe-1TB-Leitura-2100-MB-s-Grava-o-1700-MB-s-Snvs-1000g_1727277222_m.jpg",
+        "nome": "SSD Kingston M.2 NVMe 1TB, Leitura 2100 MB/s, Gravação 1700 MB/s - Snvs/1000g",
+        "preco": "R$ 540,45",
+        "link": "https://www.kabum.com.br/produto/375605/ssd-kingston-m-2-nvme-1tb-leitura-2100-mb-s-gravacao-1700-mb-s-snvs-1000g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/226323/Placa-Pci-e-Para-SSD-M-2-Com-Nvme-Pci-e-X4-Pm2-pcie_1703689090_m.jpg",
+        "nome": "Placa Pci-e Para SSD M.2 Com Nvme - Pci-e X4 - Pm2-pcie",
+        "preco": "R$ 67,77",
+        "link": "https://www.kabum.com.br/produto/226323/placa-pci-e-para-ssd-m-2-com-nvme-pci-e-x4-pm2-pcie"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/478452/ssd-externo-portatil-sandisk-extreme-4tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-preto-e-laranja-sdssde61-4t00-g25_1699970233_m.jpg",
+        "nome": "SSD Externo Portátil SanDisk Extreme 4TB, USB, Leitura: 1050 MB/s e Gravação: 1000 MB/s, Preto e Laranja - SDSSDE61-4T00-G25",
+        "preco": "R$ 2.132,99",
+        "link": "https://www.kabum.com.br/produto/478452/ssd-externo-portatil-sandisk-extreme-4tb-usb-leitura-1050-mb-s-e-gravacao-1000-mb-s-preto-e-laranja-sdssde61-4t00-g25"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/508699/SSD-1920GB-Kingston-Enterprise-S-rie-Dc600m-Sata3-Leitura-grava-o-Sequencial-560Mbs-530Mbs-Para-Servidores-E-Data-Centers-Sedc600m_1721319261_m.jpg",
+        "nome": "SSD 1920GB Kingston Enterprise Série Dc600m, Sata3, Leitura/gravação Sequencial 560Mbs/530Mbs, Para Servidores E Data Centers - Sedc600m",
+        "preco": "R$ 2.326,55",
+        "link": "https://www.kabum.com.br/produto/508699/ssd-1920gb-kingston-enterprise-serie-dc600m-sata3-leitura-gravacao-sequencial-560mbs-530mbs-para-servidores-e-data-centers-sedc600m"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/366191/Placa-Pci-e-Adaptador-SSD-M2-No-Pc-Dp-20-Dex_1717617605_m.jpg",
+        "nome": "Placa Pci-e Adaptador SSD, M2 No Pc Dp-20 Dex",
+        "preco": "R$ 49,98",
+        "link": "https://www.kabum.com.br/produto/366191/placa-pci-e-adaptador-ssd-m2-no-pc-dp-20-dex"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/96293/96293_1524250438_index_m.jpg",
+        "nome": "Suporte Corsair para até 2 SSDs - CSSD-BRKT2 3822633",
+        "preco": "R$ 49,99",
+        "link": "https://www.kabum.com.br/produto/96293/suporte-corsair-para-ate-2-ssds-cssd-brkt2-3822633"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/459938/ssd-kingston-3840tb-dc600m-mixed-use-sata-2-5-leitura-560mb-s-e-gravacao-530mb-s-sedc600m-3840g_1686054817_m.jpg",
+        "nome": "SSD Kingston DC600M Mixed-Use, 3.84 TB, SATA III, 2.5\", Leitura: 560 MB/s, Gravação: 530 MB/s, Preto, para Servidor - SEDC600M/3840G",
+        "preco": "R$ 4.399,99",
+        "link": "https://www.kabum.com.br/produto/459938/ssd-kingston-dc600m-mixed-use-3-84-tb-sata-iii-2-5-leitura-560-mb-s-gravacao-530-mb-s-preto-para-servidor-sedc600m-3840g"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/538390/SSD-Sandisk-Plus-250GB-M-2-2280-NVMe-Pcie-Gen3-Sdssda3n-250g-G26_1731094980_m.jpg",
+        "nome": "SSD Sandisk Plus 250GB, M.2 2280 NVMe Pcie Gen3 - Sdssda3n-250g-G26",
+        "preco": "R$ 185,73",
+        "link": "https://www.kabum.com.br/produto/538390/ssd-sandisk-plus-250gb-m-2-2280-nvme-pcie-gen3-sdssda3n-250g-g26"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/396496/SSD-Kingston-Nv2-250Gb-M-2-2280-Pcie-Nvme-Leitura-3000-Mb-s-e-Grava-o-1300-Mb-se-Preto_1730146807_m.jpg",
+        "nome": "SSD Kingston Nv2 250Gb, M.2 2280 Pcie, Nvme, Leitura: 3000 Mb/s e Gravação: 1300 Mb/se Preto",
+        "preco": "R$ 227,24",
+        "link": "https://www.kabum.com.br/produto/396496/ssd-kingston-nv2-250gb-m-2-2280-pcie-nvme-leitura-3000-mb-s-e-gravacao-1300-mb-se-preto"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/400359/SSD-Kingston-2TB-Nv2-M-2-Snv2s-2000g-Nvme-Gen-4-Leitura-3500MB-s-Grava-o-2800MB-s_1731005092_m.jpg",
+        "nome": "SSD Kingston 2TB Nv2 M.2 Snv2s/2000g - Nvme Gen 4 - Leitura 3500MB/s, Gravação: 2800MB/s",
+        "preco": "R$ 867,00",
+        "link": "https://www.kabum.com.br/produto/400359/ssd-kingston-2tb-nv2-m-2-snv2s-2000g-nvme-gen-4-leitura-3500mb-s-gravacao-2800mb-s"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/618633/SSD-Samsung-990-Evo-1TB-Nvme-M-2-2280-Mz-v9e1t0b-am_1728055574_m.jpg",
+        "nome": "SSD Samsung 990 Evo 1TB Nvme M.2 2280 - Mz-v9e1t0b/am",
+        "preco": "R$ 879,00",
+        "link": "https://www.kabum.com.br/produto/618633/ssd-samsung-990-evo-1tb-nvme-m-2-2280-mz-v9e1t0b-am"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/571055/Case-Gaveta-Externa-Ugreen-Para-SSD-M-2-Nvme-10gbps-Preta_1725382799_m.jpg",
+        "nome": "Case Gaveta Externa Ugreen Para SSD M.2 Nvme 10gbps Preta",
+        "preco": "R$ 240,38",
+        "link": "https://www.kabum.com.br/produto/571055/case-gaveta-externa-ugreen-para-ssd-m-2-nvme-10gbps-preta"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/454661/ssd-portatil-1tb-corsair-ex100u-usb-type-c-leitura-1600mb-s-e-gravacao-1500mb-s-preto-cssd-ex100u1tb_1687980787_m.jpg",
+        "nome": "SSD Portátil 1TB Corsair EX100U, USB Type-C, Leitura: 1600MB/s e Gravação: 1500MB/s, Preto - CSSD-EX100U1TB",
+        "preco": "R$ 859,99",
+        "link": "https://www.kabum.com.br/produto/454661/ssd-portatil-1tb-corsair-ex100u-usb-type-c-leitura-1600mb-s-e-gravacao-1500mb-s-preto-cssd-ex100u1tb"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/478449/ssd-wd-black-1tb-sn850p-nvme-leitura-7300mb-s-e-gravacao-6300mb-s-para-consoles-ps5-wdbbyv0010bnc-wrsn_1700061865_m.jpg",
+        "nome": "SSD WD Black 1TB SN850P NVMe, Leitura: 7300MB/s e Gravação: 6300MB/s, para consoles PS5 - WDBBYV0010BNC-WRSN",
+        "preco": "R$ 1.099,99",
+        "link": "https://www.kabum.com.br/produto/478449/ssd-wd-black-1tb-sn850p-nvme-leitura-7300mb-s-e-gravacao-6300mb-s-para-consoles-ps5-wdbbyv0010bnc-wrsn"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/268540/ssd-wd-red-sn700-2tb-m-2-2280-nvme-leituras-3400mb-s-gravacao-2900mb-s-vermelho-wds200t1r0c_1637326958_m.jpg",
+        "nome": "SSD 2 TB WD Red SN700, M.2 PCIe, NVMe, Leitura: 3400MB/s e Gravação: 2900MB/s - WDS200T1R0C",
+        "preco": "R$ 2.259,99",
+        "link": "https://www.kabum.com.br/produto/268540/ssd-2-tb-wd-red-sn700-m-2-pcie-nvme-leitura-3400mb-s-e-gravacao-2900mb-s-wds200t1r0c"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/528744/ssd-externo-lexar-512gb-sl660-blaze-gaming-usb-3-2-leitura-2000mb-s-gravacao-2000mb-s-lsl660x512g-rnnnu_1730142595_m.jpg",
+        "nome": "SSD Externo Lexar 512GB SL660 BLAZE Gaming, USB 3.2, Leitura 2000MB/s Gravação 2000MB/s - LSL660X512G-RNNNU",
+        "preco": "R$ 469,99",
+        "link": "https://www.kabum.com.br/produto/528744/ssd-externo-lexar-512gb-sl660-blaze-gaming-usb-3-2-leitura-2000mb-s-gravacao-2000mb-s-lsl660x512g-rnnnu"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/506089/ssd-wd-black-2t-sn770m-m-2-2230-nvm-wds200t3x0g-00chy0_1708453457_m.jpg",
+        "nome": "SSD WD Black 2TB SN770M, M.2 2230 NVM, Leitura: 5150MB/s e Gravação 4850MB/s, Preto - WDS200T3X0G-00CHY0",
+        "preco": "R$ 1.699,99",
+        "link": "https://www.kabum.com.br/produto/506089/ssd-wd-black-2tb-sn770m-m-2-2230-nvm-leitura-5150mb-s-e-gravacao-4850mb-s-preto-wds200t3x0g-00chy0"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/398534/ssd-kingston-fury-500gb-pcie-4-0-nvme-m-2-leitura-7300mb-s-e-gravacao-3900mb-s-preto-sfyrsk-500g_1670944593_m.jpg",
+        "nome": "SSD Kingston Fury Renegade, 500 GB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 3900 MB/s, com Dissipador, Compatível com PS5 - SFYRSK/500G",
+        "preco": "R$ 599,99",
+        "link": "https://www.kabum.com.br/produto/398534/ssd-kingston-fury-renegade-500-gb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-3900-mb-s-com-dissipador-compativel-com-ps5-sfyrsk-500g"
+    }
+]

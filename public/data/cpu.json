@@ -1,0 +1,122 @@
+[
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/520369/processador-amd-ryzen-7-5700x3d-3-6-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-video-integrado-100-100001503wof_1708023990_m.jpg",
+        "nome": "Processador AMD Ryzen 7 5700X3D, 3.0 GHz, (4.1GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100001503WOF",
+        "preco": "R$ 1.449,99",
+        "link": "https://www.kabum.com.br/produto/520369/processador-amd-ryzen-7-5700x3d-3-0-ghz-4-1ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-100-100001503wof"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/520368/processador-amd-ryzen-5-5600gt-3-6-ghz-4-6ghz-max-turbo-cache-4mb-6-nucleos-12-threads-am4-100-100001488box_1708024586_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5600GT, 3.6 GHz, (4.6GHz Max Turbo), Cachê 4MB, 6 Núcleos, 12 Threads, AM4 - 100-100001488BOX",
+        "preco": "R$ 894,99",
+        "link": "https://www.kabum.com.br/produto/520368/processador-amd-ryzen-5-5600gt-3-6-ghz-4-6ghz-max-turbo-cache-4mb-6-nucleos-12-threads-am4-100-100001488box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/320799/processador-amd-ryzen-5-5500-cache-19mb-3-7ghz-4-2ghz-max-turbo-am4-100-100000457box_1647636796_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",
+        "preco": "R$ 699,99",
+        "link": "https://www.kabum.com.br/produto/320799/processador-amd-ryzen-5-5500-3-6ghz-4-2ghz-max-turbo-cache-19mb-am4-sem-video-100-100000457box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/181089/processador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-am4-video-integrado-8-nucleos-100-100000263box_1627588652_m.jpg",
+        "nome": "Processador AMD Ryzen 7 5700G, 3.8GHz (4.6GHz Max Turbo), Cache 20MB, 8 Núcleos, 16 Threads, Vídeo Integrado, AM4 - 100-100000263BOX",
+        "preco": "R$ 1.199,99",
+        "link": "https://www.kabum.com.br/produto/181089/processador-amd-ryzen-7-5700g-3-8ghz-4-6ghz-max-turbo-cache-20mb-8-nucleos-16-threads-video-integrado-am4-100-100000263box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/320798/processador-amd-ryzen-5-5600-cache-35mb-3-7ghz-4-4ghz-max-turbo-am4-100-100000927box_1647636743_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5600, 3.5GHz (4.4GHz Max Turbo), Cache 35MB, AM4, Sem Vídeo - 100-100000927BOX",
+        "preco": "R$ 909,99",
+        "link": "https://www.kabum.com.br/produto/320798/processador-amd-ryzen-5-5600-3-5ghz-4-4ghz-max-turbo-cache-35mb-am4-sem-video-100-100000927box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/283718/processador-intel-core-i5-12400f-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400f_1640094446_m.jpg",
+        "nome": "Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400F",
+        "preco": "R$ 799,99",
+        "link": "https://www.kabum.com.br/produto/283718/processador-intel-core-i5-12400f-2-5ghz-4-4ghz-max-turbo-cache-18mb-lga-1700-bx8071512400f"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/356695/Processador-AMD-Ryzen-5-5500-3-6GHz-Cache-16MB-Hexa-Core-12-Threads-AM4-100-100000457BOX_1731614564_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5500, 3.6GHz, Cache 16MB, Hexa Core, 12 Threads, AM4 - 100-100000457BOX",
+        "preco": "R$ 530,00",
+        "link": "https://www.kabum.com.br/produto/356695/processador-amd-ryzen-5-5500-3-6ghz-cache-16mb-hexa-core-12-threads-am4-100-100000457box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/320797/processador-amd-ryzen-7-5700x-cache-36mb-3-8ghz-4-6ghz-max-turbo-am4-100-100000926wof_1647636511_m.jpg",
+        "nome": "Processador AMD Ryzen 7 5700X, 3.4GHz (4.6GHz Max Turbo), Cache 36MB, AM4, Sem Vídeo - 100-100000926WOF",
+        "preco": "R$ 2.467,99",
+        "link": "https://www.kabum.com.br/produto/320797/processador-amd-ryzen-7-5700x-3-4ghz-4-6ghz-max-turbo-cache-36mb-am4-sem-video-100-100000926wof"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/333145/processador-amd-ryzen-5-4600g-cache-11mb-3-7ghz-4-2ghz-max-turbo-am4-video-integrado-100-100000147box_1653338731_m.jpg",
+        "nome": "Processador AMD Ryzen 5 4600G, 3.7GHz (4.2GHz Max Turbo), Cache 11MB, AM4, Vídeo Integrado - 100-100000147BOX",
+        "preco": "R$ 1.269,99",
+        "link": "https://www.kabum.com.br/produto/333145/processador-amd-ryzen-5-4600g-3-7ghz-4-2ghz-max-turbo-cache-11mb-am4-video-integrado-100-100000147box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/129451/processador-amd-ryzen-9-5950x-cache-72mb-3-4ghz-4-9ghz-max-turbo-am4-100-100000065box_1602603581_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Max Turbo), Cache 35MB, 6 Núcleos, 12 Threads, AM4 - 100-100000065BOX",
+        "preco": "R$ 1.099,99",
+        "link": "https://www.kabum.com.br/produto/129451/processador-amd-ryzen-5-5600x-3-7ghz-4-6ghz-max-turbo-cache-35mb-6-nucleos-12-threads-am4-100-100000065box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/102248/processador-amd-ryzen-3-3200g-cache-4mb-3-6ghz-4ghz-max-turbo-am4-yd3200c5fhbox_1607691191_m.jpg",
+        "nome": "Processador AMD Ryzen 3 3200G, 3.6GHz (4GHz Max Turbo), Cache 4MB, Quad Core, 4 Threads, AM4 - YD3200C5FHBOX",
+        "preco": "R$ 443,99",
+        "link": "https://www.kabum.com.br/produto/102248/processador-amd-ryzen-3-3200g-3-6ghz-4ghz-max-turbo-cache-4mb-quad-core-4-threads-am4-yd3200c5fhbox"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/112991/processador-intel-core-i5-10400f-cache-12mb-2-9ghz-lga-1200-bx8070110400f_1589199927_m.jpg",
+        "nome": "Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA 1200 - BX8070110400F",
+        "preco": "R$ 669,99",
+        "link": "https://www.kabum.com.br/produto/112991/processador-intel-core-i5-10400f-2-9ghz-4-3ghz-max-turbo-cache-12mb-6-nucleos-12-threads-lga-1200-bx8070110400f"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/333154/processador-amd-ryzen-5-4500-cache-11mb-3-6ghz-4-1ghz-max-turbo-am4-sem-video-100-100000644box_1652381901_m.jpg",
+        "nome": "Processador AMD Ryzen 5 4500, 3.6GHz (4.1GHz Max Turbo) Cache 11MB, AM4, Sem Vídeo - 100-100000644BOX",
+        "preco": "R$ 489,99",
+        "link": "https://www.kabum.com.br/produto/333154/processador-amd-ryzen-5-4500-3-6ghz-4-1ghz-max-turbo-cache-11mb-am4-sem-video-100-100000644box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/366827/Processador-AMD-Ryzen-7-5700X-3-4GHz-Cache-32MB-8-N-cleos-16-Threads-100-100000926WOFAM4_1731514119_m.jpg",
+        "nome": "Processador AMD Ryzen 7 5700X, 3.4GHz, Cache 32MB, 8 Núcleos, 16 Threads - 100-100000926WOFAM4",
+        "preco": "R$ 1.069,90",
+        "link": "https://www.kabum.com.br/produto/366827/processador-amd-ryzen-7-5700x-3-4ghz-cache-32mb-8-nucleos-16-threads-100-100000926wofam4"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/523518/Processador-AMD-Ryzen-5-5600GT-4-6GHz-Cache-19MB-AM4-6-n-cleos-12-threads-Placa-de-V-deo-Com-Cooler-100-100001488_1732052675_m.jpg",
+        "nome": "Processador AMD Ryzen 5 5600GT, 4.6GHz, Cache 19MB, AM4, 6 núcleos, 12 threads, Placa de Vídeo, Com Cooler - 100-100001488",
+        "preco": "R$ 839,90",
+        "link": "https://www.kabum.com.br/produto/523518/processador-amd-ryzen-5-5600gt-4-6ghz-cache-19mb-am4-6-nucleos-12-threads-placa-de-video-com-cooler-100-100001488"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/283713/processador-intel-core-i5-12400-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400_1640031464_m.jpg",
+        "nome": "Processador Intel Core i5-12400, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400",
+        "preco": "R$ 1.019,99",
+        "link": "https://www.kabum.com.br/produto/283713/processador-intel-core-i5-12400-2-5ghz-4-4ghz-max-turbo-cache-18mb-lga-1700-bx8071512400"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/520367/processador-amd-ryzen-7-5700-3-7-ghz-4-6ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-100-100000743box_1708024353_m.jpg",
+        "nome": "Processador AMD Ryzen 7 5700, 3.7 GHz (4.6GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100000743BOX",
+        "preco": "R$ 1.178,99",
+        "link": "https://www.kabum.com.br/produto/520367/processador-amd-ryzen-7-5700-3-7-ghz-4-6ghz-max-turbo-cache-4mb-8-nucleos-16-threads-am4-100-100000743box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/520365/processador-amd-ryzen-5-8600g-100-100001237box_1706637579_m.jpg",
+        "nome": "Processador AMD Ryzen 5 8600G, 4.3 GHz (5.0GHz Max Turbo), Cachê 6MB, 6 Núcleos, 12 Threads, AM5, Vídeo Integrado - 100-100001237BOX",
+        "preco": "R$ 1.299,99",
+        "link": "https://www.kabum.com.br/produto/520365/processador-amd-ryzen-5-8600g-4-3-ghz-5-0ghz-max-turbo-cache-6mb-6-nucleos-12-threads-am5-video-integrado-100-100001237box"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/241048/processador-intel-core-i7-12700k-cache-25mb-3-6ghz-5-0ghz-max-turbo-lga-1700-bx8071512700k_1634830258_m.jpg",
+        "nome": "Processador Intel Core i7-12700K, 3.6GHz (5.0GHz Max Turbo), 12 Núcleos, 20 Threads, LGA 1700, Vídeo Integrado - BX8071512700K",
+        "preco": "R$ 1.899,99",
+        "link": "https://www.kabum.com.br/produto/241048/processador-intel-core-i7-12700k-3-6ghz-5-0ghz-max-turbo-12-nucleos-20-threads-lga-1700-video-integrado-bx8071512700k"
+    },
+    {
+        "img": "https://images.kabum.com.br/produtos/fotos/405801/processador-amd-ryzen-5-7700-5-3ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000592box_1673292705_m.jpg",
+        "nome": "Processador AMD Ryzen 7 7700, 5.3GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000592BOX",
+        "preco": "R$ 1.999,99",
+        "link": "https://www.kabum.com.br/produto/405801/processador-amd-ryzen-7-7700-5-3ghz-max-turbo-cache-40mb-am5-8-nucleos-video-integrado-100-100000592box"
+    }
+]

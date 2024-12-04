@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  display: flex;
+  font-family: 'Inter';
+}
+
+#esquerda {
+  width: 50%;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8f8f8f;
+}
+
+#direita {
+  font-size: 18px;
+  height: 100vh;
+  width: 70%;
+  margin: 0;
+  overflow: hidden;
+  background-color: #f6f8fc;
+}
+
+#cadastroBox {
+  text-align: left;
+  margin: 153px 78.95px 205px 226px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 655.05px;
+  flex-direction: column;
+}
+
+#cadastroBox h1 {
+  color: #212121;
+  margin: 0 0 48px 0;
+  align-self: flex-start;
+}
+
+#username {
+  padding-left: 16px;
+  color: #676666;
+  border-radius: 10px;
+  border: 1px solid #676666;
+  height: 50.51px;
+  width: 634.56px;
+  background-color: #fafcff;
+}
+
+#emailSenha {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 655.05px;
+  flex-direction: column;
+}
+
+#email {
+  padding-left: 16px;
+  color: #676666;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 1px solid #676666;
+  width: 100%;
+  height: 55px;
+  margin-top: 24px;
+  background-color: #fafcff;
+}
+
+#password {
+  padding-left: 16px;
+  color: #676666;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 1px solid #676666;
+  width: 100%;
+  height: 55px;
+  margin-top: 24px;
+  background-color: #fafcff;
+}
+
+#divButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 655.05px;
+}
+
+#divButton button {
+  padding: 0;
+  width: 100%;
+  height: 55px;
+  margin-top: 28px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  background-color: #d52323;
+  font-family: 'Inter';
+  font-size: 14px;
+}
+
+#divButton button:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: all 0.3s ease;
+}
+
+#embaixoBotao {
+  align-self: flex-start;
+  color: #676666;
+  font-size: 16px;
+  margin-top: 16px;
+}
+
+#embaixoBotao p {
+  margin: 0;
+}
+
+#embaixoBotao a {
+  text-decoration: none;
+  color: black;
+}
+
+#hrOu {
+  margin-top: 44px;
+  width: 655.05px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hrOu hr {
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  height: 1px;
+  background: #D1D1D1;
+}
+
+#hrOu p {
+  color: #676666;
+  padding: 0 16px;
+}
+
+#loginFacebookGoogle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28.45px;
+}
+
+#loginFacebookGoogle button {
+  width: 313.27px;
+  height: 55px;
+  border-radius: 10px;
+  border: 1px solid #676666;
+  background-color: white;
+  font-family: 'Inter';
+}
+
+#loginFacebookGoogle button:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+  background-color: #f1f1f1;
+  transition: all 0.3s ease;
+}
+
+.span-required {
+  display: none;
+  align-self: flex-start;
+  font-size: 12.5px;
+  color: #960f0f;
+  font-weight: bold;
+}
+
+#email-required {
+  display: none;
+  align-self: flex-start;
+  font-size: 12.5px;
+  color: #960f0f;
+  font-weight: bold;
+}
+
+#senha-required {
+  display: none;
+  align-self: flex-start;
+  font-size: 12.5px;
+  color: #960f0f;
+  font-weight: bold;
+}
